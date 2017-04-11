@@ -36,7 +36,7 @@ start_review:
     environment:
         name: review/$CI_COMMIT_REF_NAME
         url: http://$HOST_NAME$COLON$HTTP_PORT/review/$CI_COMMIT_REF_NAME/
-        #url: https://$PROXY_HOST_NAME/reviews/$CI_PROJECT_PATH/$CI_COMMIT_REF_NAME/
+        #url: https://$PROXY_HOST_NAME/reviews/$BASE_PATH/$CI_COMMIT_REF_NAME/
         on_stop: stop_review
     only:
         - branches
@@ -74,4 +74,4 @@ deploy:
         - sshpass -p "$SSH_PASSWD" scp -P "$SSH_PORT" -r book_pdf $SSH_USER@$HOST_NAME:/usr/share/nginx/html/production
     environment:
         name: production
-        url: https://$PROXY_HOST_NAME/$CI_PROJECT_PATH/
+        url: https://$PROXY_HOST_NAME/$BASE_PATH/
