@@ -23,7 +23,8 @@
   "language": "de",
   "gitbook": "3.2.2",
   "styles": {
-    "website": "styles/website.css"
+    "website": "styles/website.css",
+    "pdf": "styles/pdf.css"
   },
   "pdf": {
     "paperSize": "a4",
