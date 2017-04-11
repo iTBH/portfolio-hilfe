@@ -1,0 +1,38 @@
+{% extends template.self %}
+{% block head %}
+    {{ super() }}
+    <style type="text/css">
+      {% if config.colors.sidebarBackground %}
+        div.book-summary {
+          background: {{ config.colors.sidebarBackground }};
+        }
+      {% endif %}
+      {% if config.colors.partHeaderColor %}
+        div.book-summary ul.summary li.header {
+          color: {{ config.colors.partHeaderColor }};
+        }
+      {% endif %}
+      {% if config.colors.sidebarLinkActive %}
+        div.book-summary ul.summary li.active a
+         {
+          color: {{ config.colors.sidebarLinkActive  }};
+        }
+        div.book-summary ul.summary li.active ul li a
+         {
+          color: {{ config.colors.sidebarLink }};
+        }
+      {% endif %}
+      {% if config.colors.sidebarLink %}
+        div.book-summary ul.summary li a
+         {
+          color: {{ config.colors.sidebarLink }};
+        }
+      {% endif %}
+      {% if config.colors.sidebarColor %}
+        div.book-summary {
+          color: {{ config.colors.sidebarColor  }} important;
+        }
+      {% endif %}
+      </style>
+      <meta name="robots" content="noindex,nofollow" />
+{% endblock %}

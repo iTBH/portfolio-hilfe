@@ -1,3 +1,103 @@
-.version-badge {   
-    display: none; 
+.book-summary {
+  padding: 20px 0 0 20px;
+}
+
+.book-summary h2 {
+  color: #fff;
+  margin-bottom: 18px;
+  width: 70%;
+  line-height: 1em;
+}
+
+.book-summary h2 p {
+  font-size: 16px;
+  margin: 0;
+  margin-top: 6px;
+}
+
+.img-pull-left {
+  float:left;
+  width: 300px;
+  margin: 0 20px 20px 0;
+}
+
+.img-pull-left figure {
+  margin: 0;
+  padding: 0;
+  margin-top: 5px;
+}
+
+.markdown-section img {
+  border: 1px solid #eee;
+}
+
+.clearer {
+  clear: both;
+}
+
+.license {
+  margin-top: 40px;
+  margin-left: 18px;
+  width: 85%;
+}
+
+.license.oer img {
+  width: 130px;
+}
+
+div.license, div.license > a {
+  color: #fff;
+  font-size: 12px;
+}
+
+div.book-summary ul.summary li a,
+div.book-summary ul.summary li.active a {
+    padding: 1px 15px;
+  }
+
+div.book-summary ul.summary li a {
+  text-decoration: none;
+}
+
+.book-summary ul.summary li.header {
+  text-transform: uppercase;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 10px;
+  width: 90%;
+  padding-left: 0;
+}
+
+.book-summary ul.summary li.header.active {
+  color: red;
+}
+
+#auftrag:before {
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  display: inline-block;
+  text-decoration: inherit;
+  content: "\f0e7";
+  padding-right: 10px;
+  color: #d0bb00;
+}
+
+#abgabetermin:before {
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  display: inline-block;
+  text-decoration: inherit;
+  content: "\f071";
+  padding-right: 10px;
+  color: red;
+}
+
+.markdown-section #fahrplan + table {
+  font-size: 12px;
+  line-height: 1em;
+}
+
+.version-badge {
+  display: none;
 }

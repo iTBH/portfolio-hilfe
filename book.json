@@ -31,10 +31,10 @@
     "fontFamily": "Liberation Sans"
   },
   "author": "Barbara Knauf",
+  "title": "Portfolio-Hilfe",
   "description": "Online-Hilfe für das Portfolio des ITBH an der TU Hamburg",
-  "title": "Online-Hilfe für das Portfolio des ITBH an der TU Hamburg",
   "colors": {
-    "sidebarBackground": "#5e93ce",
+    "sidebarBackground": "#ffa41d",
     "sidebarColor": "#fff",
     "partHeaderColor": "#364149",
     "sidebarLink": "#fff",
