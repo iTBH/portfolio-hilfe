@@ -1,0 +1,43 @@
+{
+  "base_path": "https://fizban05.rz.tu-harburg.de/itbh/portfolio-hilfe/",
+  "plugins":  [
+        "image-captions", "downloadpdf", "-search"
+  ],
+  "pluginsConfig": {
+    "image-captions": {
+        "align": "left",
+        "caption": "Abbildung: _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_",
+        "images": {
+          "1.1.4": {
+            "skip": true
+          }
+        }
+    },
+    "downloadpdf": {
+        "base": "https://fizban05.rz.tu-harburg.de/itbh/portfolio-hilfe/book_pdf/book.pdf?",
+        "label": "PDF laden",
+        "multilingual": false
+
+    }
+  },
+  "language": "de",
+  "gitbook": "3.2.2",
+  "styles": {
+    "website": "styles/website.css"
+  },
+  "pdf": {
+    "paperSize": "a4",
+    "fontSize": 14,
+    "fontFamily": "Liberation Sans"
+  },
+  "author": "Barbara Knauf",
+  "description": "Online-Hilfe für das Portfolio des ITBH an der TU Hamburg",
+  "title": "Online-Hilfe für das Portfolio des ITBH an der TU Hamburg",
+  "colors": {
+    "sidebarBackground": "#5e93ce",
+    "sidebarColor": "#fff",
+    "partHeaderColor": "#364149",
+    "sidebarLink": "#fff",
+    "sidebarLinkActive": "#364149"
+  }
+}
