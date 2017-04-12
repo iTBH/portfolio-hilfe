@@ -3,4 +3,4 @@
 * [Einleitung](README.md)
 
 ## Dashboard
-* [Überblick](dashboard/overview.md)
+* [Überblick](dashboard/hilfe_dashboard.md)
