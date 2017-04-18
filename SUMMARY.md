@@ -7,7 +7,7 @@
 
 ## Profil
 * [Persönliche Daten](profil/hilfe_profil_persoenlich.md)
-* [Die Lernorte verwalten](profil/hilfe_profil_lernort.md)
+* [Die Lernorte verwalten](profil/hilfe_profil_lernorte.md)
 * [Die Aufgabenbereiche verwalten](profil/hilfe_profil_aufgabenbereich.md)
 
 ## Portfolio-Eintrag
