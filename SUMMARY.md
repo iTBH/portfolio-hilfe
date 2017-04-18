@@ -8,7 +8,7 @@
 ## Profil
 * [Persönliche Daten](profil/hilfe_profil_persoenlich.md)
 * [Die Lernorte verwalten](profil/hilfe_profil_lernorte.md)
-* [Die Aufgabenbereiche verwalten](profil/hilfe_profil_aufgabenbereich.md)
+* [Die Aufgabenbereiche verwalten](profil/hilfe_profil_aufgabenbereiche.md)
 
 ## Portfolio-Eintrag
 * [Einen Eintrag verfassen](portfolio_eintrag/hilfe_eintrag_erstellen.md)
