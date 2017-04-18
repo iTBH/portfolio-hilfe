@@ -12,7 +12,7 @@
 
 ## Portfolio-Eintrag
 * [Einen Eintrag verfassen](portfolio_eintrag/hilfe_eintrag_erstellen.md)
-* [Ansicht eines Eintrags](portfolio/hilfe_eintrag_uebersicht.md)
+* [Ansicht eines Eintrags](portfolio_eintrag/hilfe_eintrag_uebersicht.md)
  
 ## Aufgabenbereich
 * [Der Aufgabenbereich in der Übersicht](aufgabenbereich/hilfe_aufgabenbereich_uebersicht.md)
