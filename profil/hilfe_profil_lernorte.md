@@ -1,6 +1,7 @@
 # Deine Lernorte
 
 - - - 
+
 Auf dieser Seite kannst du Lernorte erstellen und verwalten.
 
 ## Was sind Lernorte?
@@ -11,6 +12,8 @@ Lerorte sind eine weitere Möglichkeit deine Portfolioeinträge zu sortieren und
 
 ## Wie kann ich neue Lernorte erstellen?
 
+Die folgenden Daten kannst du bei einem Lernort anpassen.
+
 * Name
 * Typ des Lernortes
 * Beschreibung
@@ -20,5 +23,6 @@ Lerorte sind eine weitere Möglichkeit deine Portfolioeinträge zu sortieren und
 * Anschrift
 * Postleitzahl und Ort
 * Webseite
+
 
 ## Wie kann ich Lernorte verwalten?
