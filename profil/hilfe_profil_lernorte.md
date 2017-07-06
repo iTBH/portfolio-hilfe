@@ -9,6 +9,16 @@ Auf dieser Seite kannst du Lernorte erstellen und verwalten.
 
 ## Wie kann ich neue Lernorte erstellen?
 
+* Name
+* Typ des Lernortes
+* Beschreibung
+* Ansprechperson
+* E-Mail
+* Telefon
+* Anschrift
+* Postleitzahl und Ort
+* Webseite
+
 ## Wie kann ich Lernorte verwalten?
 
 ![Darstellung der Struktur und der Funktionen auf dem Dashboard](media/dashboard.png)
