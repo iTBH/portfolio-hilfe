@@ -11,7 +11,6 @@ Lernorte können in deinem Alltag sehr vielfältig sein. In deiner Ausbildung we
 Lerorte sind eine weitere Möglichkeit deine Portfolioeinträge zu sortieren und gleichzeitig zu sehen, wo du etwas gelernt oder erfahren hast. Sie werden genau wie die Schlagwörter in deinem individuellen Bericht angezeigt.
 
 ## Wie kann ich neue Lernorte erstellen?
-
 Die folgenden Daten kannst du bei einem Lernort anpassen.
 
 * Name
@@ -24,5 +23,5 @@ Die folgenden Daten kannst du bei einem Lernort anpassen.
 * Postleitzahl und Ort
 * Webseite
 
-
 ## Wie kann ich Lernorte verwalten?
+Zusätzlich siehst du genau, in welchen Arbeitsbereichen du einen Lernort verwendest.
