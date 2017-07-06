@@ -1,4 +1,19 @@
-Hilfe Schlagwörter
+# Schlagwörter verwalten
+
+- - - 
+
+## Was sind Schlagwörter?
+Schlagwörter kennst auch als Hashtags bei Facebook, Instagram oder Twitter, mit ihnen kannst du verwandte einträge finden. In deinem Portfolio helfen sie dir bei der Sortierung von deinen Daten und Einträgen. Sie sind wie kleine Markierungen an Bildern, Einträgen oder anderen Dateien, mit deren Hilfe du schnell zu deinen wichtigen Daten kommst. Sie sind besonders bei vielen Einträgen für einen guten Überblick nützlich.
+
+## Wie kann ich Schlagwörter verwalten?
+Auf dieser Seite kannst du deine Schlagwörter, die du in deinem Portfolio verwendest, verwalten:
+
+Du kannst vorhandene Schlagwörter bearbeiten.
+Du kannst Schlagwörter löschen.
+Du kannst neue Schlagwörter erstellen.
+
+Achte darauf, dass du ein Schlagwort nur einmal verwendest, da du deine Einträge sonst nicht eindeutig wiederfinden kannst.
+
 
 # Das Dashboard
 
