@@ -1,9 +1,15 @@
-Hilfe Lernorte
-
-# Das Dashboard
+# Deine Lernorte
 
 - - - 
-Auf dieser Seite erstellen und verwalten Sie Ihre Checks.
+Auf dieser Seite kannst du Lernorte erstellen und verwalten.
+
+## Was sind Lernorte?
+
+## Wofür verwende ich Lernorte?
+
+## Wie kann ich neue Lernorte erstellen?
+
+## Wie kann ich Lernorte verwalten?
 
 ![Darstellung der Struktur und der Funktionen auf dem Dashboard](media/dashboard.png)
 
