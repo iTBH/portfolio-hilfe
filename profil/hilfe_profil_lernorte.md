@@ -8,7 +8,7 @@ Auf dieser Seite kannst du Lernorte erstellen und verwalten.
 Lernorte können in deinem Alltag sehr vielfältig sein. In deiner Ausbildung werden wahrscheinlich die wichtigsten Lertorte deine Schule und dein Betrieb sein. Du kannst aber auch individuelle Lernorte verwenden. Wir können ja überall lernen. z.B. könnte ein wichtiger Lernort für dich der Besuch bei einem Kunden gewesen sein. Erstelle einfach dafür einen neuen Lernort.
 
 ## Wofür verwende ich Lernorte?
-Lerorte sind eine weitere Möglichkeit deine Portfolioeinträge zu sortieren und gleichzeitig zu sehen, wo du etwas gelernt oder erfahren hast. Sie werden genau wie die Schlagwörter in deinem individuellen Bericht angezeigt. Du erkennst unter jeden Lernort, in welchen Arbeitsbereichen der Lernort vorkommt.
+Lerorte sind eine weitere Möglichkeit deine Portfolioeinträge zu sortieren und gleichzeitig zu sehen, wo du etwas gelernt oder erfahren hast. Sie werden genau wie die Schlagwörter in deinem **individuellen Bericht** angezeigt. Du erkennst unter jeden Lernort, in welchen Arbeitsbereichen der Lernort vorkommt.
 
 ## Wie kann ich neue Lernorte erstellen?
 In der rechten oberen Ecke findest du ein "+", damit kannst du einen neuen Lernort hinzufügen.
