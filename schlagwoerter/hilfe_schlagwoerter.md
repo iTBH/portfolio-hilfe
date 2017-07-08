@@ -12,7 +12,7 @@ Auf dieser Seite kannst du deine Schlagwörter, die du in deinem Portfolio verwe
 * Du kannst Schlagwörter **löschen**.
 * Du kannst neue Schlagwörter **erstellen**.
 
-## Wo habe ich Schlagworte bereits verwendet?
+## Wo habe ich Schlagwörter bereits verwendet?
 
 In der Spalte "Verwendungen" kannst du sehen, wie oft du ein Schlagwort in deinem Portfolio verwendet hast.
 Wenn du **alle Einträge und Medien sehen** möchtest, die mit einem bestimmten Schlagwort verbunden sind, klicke einfach auf das Schlagwort.
