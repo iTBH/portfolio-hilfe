@@ -5,6 +5,8 @@
 
 ## Was ist die Mediathek?
 
+## Was darf ich hochladen?
+
 ## Wie kann ich neue Dateien hochladen?
 
 ## Kann ich meine Daten runterladen?
