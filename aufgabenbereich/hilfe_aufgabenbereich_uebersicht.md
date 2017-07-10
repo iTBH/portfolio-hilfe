@@ -8,7 +8,7 @@
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=8HhUOH3qGw0 "Video Title")
 
-%[caption](https://www.youtube.com/watch?v=8HhUOH3qGw0)
+![caption](https://www.youtube.com/watch?v=8HhUOH3qGw0)
 
 <video controls="true">
   <source src="https://www.youtube.com/watch?v=8HhUOH3qGw0" type="video/mp4" />
