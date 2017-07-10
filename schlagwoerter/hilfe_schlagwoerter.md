@@ -21,4 +21,4 @@ Wenn Du **alle Einträge und Medien sehen** möchtest, die mit einem bestimmten 
 
 **Achte darauf, dass Du ein Schlagwort nur einmal verwendest, da Du Deine Einträge sonst nicht eindeutig wiederfinden kannst.**
 
-![Darstellung der Struktur und der Funktionen der Schlagwortverwaltung](media/dashboard.png)
+![Video](media/hilfe-schlagwort.mp4)
