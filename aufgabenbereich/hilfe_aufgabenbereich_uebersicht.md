@@ -6,7 +6,9 @@
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=8HhUOH3qGw0 "Video Title")
 
-<video src="https://www.youtube.com/watch?v=8HhUOH3qGw0"></video>
+<video controls="true">
+  <source src="https://www.youtube.com/watch?v=8HhUOH3qGw0" type="video/mp4" />
+</video>
 
 ## Was ist ein Eintrag in einem Aufgabenbereich?
 
