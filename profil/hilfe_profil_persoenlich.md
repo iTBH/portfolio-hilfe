@@ -2,9 +2,11 @@
 
 - - - 
 
+Auf dieser Seite kannst Du Deine persönlichen Daten verwalten. 
+
 ## Welche Daten kann ich eingeben?
 
-Auf dieser Seite kannst Du Deine persönlichen Daten verwalten. Hier stehen Dir folgende Einstellungen zur Verfügung:
+Hier stehen Dir folgende Einstellungen zur Verfügung:
 
 * Name
 * Beruf
