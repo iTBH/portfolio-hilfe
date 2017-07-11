@@ -1,13 +1,17 @@
 # Deine Aufgabenbereiche
 
 - - - 
-Auf dieser Seite kannst du Aufgabenbereiche verwalten und improtieren.
+Auf dieser Seite kannst du Aufgabenbereiche **verwalten** und **improtieren**.
 
 ## Was sind Aufgabenbereiche?
+Aufgabenbereiche sind, wie **Behälter** (Mappen) für Deine Einträge. Sie sind dazu da, um deine Tätigkeiten und Aufgaben in Betrieb und Schule zu **verbinden**. Sie sind das Herzstück Deines Portfolios und beinhalten alle Deine Einträge.
 
 ## Wofür benötige ich Aufgabenbereiche?
+In der Schule hast Du Lernfelder und im Betrieb Aufgaben oder Tätigkeiten. Aufgabenbereiche bieten Dir eine Möglichkeit alle wichtigen Einträge aus beiden Welten gleichzeitig zu sehen. In Deiner Ausbildung gibt es eine bestimmte Anzahl von Aufgabenbereichen, die festgelgt sind. Diese wirst Du zusammen mit Deinen Lehrern in Dein Portfolio importieren. Du hast allerdings keine Einschränkungen und kannst **beliebig viele** Aufgabenbereiche in Deinem Portfolio erstellen. 
+Falls du denkst, dass du mehr Aufgabenbereiche hast, als du schon vorfindest, kannst du diese hinzufügen. 
 
-## Wie kann ich Aufgabenbereiche hinzufügen?
+## Wie kann ich Aufgabenbereiche erstellen?
+Um neue Aufgabenbereiche zu erstellen, kannst du im oberen Bereich der Seite auf "*+*" gehen und kannst im Anschluss folgende Informationen eintragen:
 
 * Titel
 * Untertitel
