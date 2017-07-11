@@ -32,6 +32,7 @@ Hierzu musst Du mindestens einen Aufgabenbereich auswählen und kannst im Anschl
 ## Wie kann ich Aufgabenbereiche anderer User in mein Portfolio importieren?
 Im unteren Bereich der Seite befindet sich ein Feld "**Aufgabenbereiche importieren**". Du benötigst hierfür einen **Code** des Aufgabenbereichs, den Du importieren möchtest. 
 
+
 ## Wie kann ich meine Aufgabenbereiche mit anderen Usern teilen?
 Falls Du einen richtig tollen Aufgabenbereich erstellt hast und ihn mit Deinen Mitschülerinnen und Mitschülern oder Lehrerinnen und Lehrern teilen möchstes, kannst Du auch das ganz einfach machen. 
 * Wähle dazu zunächst mindestens einen Aufgabenbereich, den du teilen möchstest, aus.
@@ -39,3 +40,6 @@ Falls Du einen richtig tollen Aufgabenbereich erstellt hast und ihn mit Deinen M
 * **Verschicke den Code an alle, mit denen Du diesen Aufgabenbereich teilen möchtest.
 
 **Beachte bitte, dass es sich um eine Kopie Deines Aufgabenbereiches handelt. Wenn die Person die Kopie Deines Aufgabenbereiches importiert hat, sind es zwei verschiedene Aufgabenbereiche, die nicht verbunden sind.**
+
+## Kann ich Aufgabenbereiche kopieren?
+Mit einem kleinen Trick kannst du einen Aufgabenbereich dublizieren. Erstelle einen Code zu deinem Aufgabenbereich und importiere einfach Deinen eigenen Aufgabenbereich. Dadurch erhälst Du eine Kopie eines Aufgabenbereichs.
