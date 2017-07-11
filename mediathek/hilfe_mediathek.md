@@ -14,9 +14,8 @@ Du hast zwei Möglichkeiten:
  
 Im Abschluss musst du nur noch auf "Medien hochladen" klicken.
 
-## Kann ich meine Daten runterladen?
-
 ## Kann ich meine Dateien bearbeiten?
+Folgende Angaben kannst du zu jeder Datei machen:
 
 * Name
 * Beschreibung
@@ -26,5 +25,14 @@ Im Abschluss musst du nur noch auf "Medien hochladen" klicken.
 * Lizenz
 * Schlagwörter
 
-## Kann ich meine Dateien löschen?
+## Kann ich sehen, wo ich eine bestimmte Datei Verwendet habe?
+An jeder Datei gibt es die Möglichkeit zu sehen, wo Du sie verwendet hast. Du kannst mit einem Klick auf den Link zu dem Eintrag, in dem die Datei verwendet wird, gelanden.
 
+## Kann ich meine Daten wieder runterladen?
+Deine Daten gehören Dir. Neben jeder Datei gibt es eine Schaltflächte "Pfeil" zum runterladen Deiner Datei.
+
+## Kann ich meine Dateien löschen?
+Neben jedem Bild gibt es eine Schaltflächte (Mülleimer) zum löschen einer Datei
+
+## Darf ich alles hochladen, was ich möchte?
+**Achte darauf, dass Du die Rechte für die Bilder besitzt, bevor du sie hochlädtst. Dein Portfolio ist ein geschlossener und gesicherter Raum, dein Arbeitgeber könnte es trotzdem nicht gut finden, wenn du Bilder auf verwendest, die er nicht freigegeben hat.**
