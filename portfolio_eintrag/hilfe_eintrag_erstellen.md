@@ -5,6 +5,8 @@ Du möchstest einen neuen Eintrag erstellen? Fülle dazu alle wichtigen Informat
 
 ## Welche Informationen kann ich einpflegen?
 
+Du kannst folgende Informationen bei jedem Eintrag einpflegen:
+
 * Titel
 * Beschreibung der Tätigkeit
 * Lernort
@@ -20,3 +22,5 @@ Denke daran, dass Du Deine Medien zuerst im **Bereich "Mediathek"** hochladen mu
 
 ## Ich möchte einen Eintrag für 1 Tag erstellen?
 Wenn Du an einem Tag einer Tätigkeit nachgegangen bist, die Du in deinem Portfolio festhalten möchstest, trage einfach in dem Feld "Datum" den gleichen Tag. Dabei erhälst du zudem die Möglichkeit unter "Dauer der Tätigkeit(en) in Stunden" dien **Zeitumfang der Tätigkeit** einzutragen. Bei Tätigkeiten, die über mehrere Tage gehen, werden automatisch 8 Stunden pro Tag eingetragen. Wenn du also z.B. vom 10.05. bis zum 13.05. diese Aufgabe erledigt hast, werden dir 3 x 8 Stunden = 24 Stunden eingetragen.
+
+
