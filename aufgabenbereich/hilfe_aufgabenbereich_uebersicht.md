@@ -1,4 +1,4 @@
-# Übersicht eines Aufgabenbereichs
+# Übersicht der Einträge eines Aufgabenbereichs
 
 - - - 
 
