@@ -24,7 +24,7 @@ Um neue Aufgabenbereiche zu erstellen, kannst du im oberen Bereich der Seite auf
 Denke daran, dass Du Deine Medien zuerst im **Bereich "Mediathek"** hochladen musst, bevor Du sie in Deinen Einträgen verwenden kannst.
 
 ## Wie kann ich Aufgabenbereiche sortieren?
-Mit dem Feld *Nummerierung des Aufgabenbereichs* kannst du jedem Aufgabenbereich eine Zahl zuordnen und damit eine Reihenfolge festlegen.
+Mit dem Feld **Nummerierung des Aufgabenbereichs** kannst du jedem Aufgabenbereich eine Zahl zuordnen und damit eine Reihenfolge festlegen.
 
 ## Wie kann ich Aufgabenbereiche bearbeiten oder löschen?
 Hierzu musst Du mindestens einen Aufgabenbereich auswählen und kannst im Anschluss auf den kleinen Stift im oberen Bereich der Seite klicken. Jetzt kannst du alles einstellen.
