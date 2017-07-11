@@ -23,4 +23,6 @@ Denke daran, dass Du Deine Medien zuerst im **Bereich "Mediathek"** hochladen mu
 ## Ich möchte einen Eintrag für 1 Tag erstellen?
 Wenn Du an einem Tag einer Tätigkeit nachgegangen bist, die Du in deinem Portfolio festhalten möchstest, trage einfach in dem Feld "Datum" den gleichen Tag bei "von" und bei "bis" ein. Dabei erhälst du zudem die Möglichkeit unter "Dauer der Tätigkeit(en) in Stunden" den **Zeitumfang der Tätigkeit** einzutragen. Bei Tätigkeiten, die über mehrere Tage gehen, werden automatisch 8 Stunden pro Tag eingetragen. Wenn du also z.B. vom 10.05. bis zum 13.05. diese Aufgabe erledigt hast, werden dir 3 x 8 Stunden = 24 Stunden eingetragen.
 
-
+## Kann ich einen Eintrag in einen anderen Arbeitsbereich verschieben?
+Ja, mit einem kleinen Trick.
+Wenn Du einen Eintrag bearbeitest, kannst Du unter Arbeitsbereich einfach den neuen Bereich aussuchen und den Eintrag abspeichern. Der Eintrag wird automatisch in den anderen Arbeitsbereich verschoben.
