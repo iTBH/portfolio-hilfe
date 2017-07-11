@@ -1,6 +1,11 @@
 # Übersicht eines Aufgabenbereichs
 
 - - - 
+
+
+
+
+[//]: <> (
 Auf dieser Seite siehst Du alle Arbeitsbereich, die Du erstellt oder importiert hast.
 
 ## Was sind Aufgabenbereiche?
@@ -17,5 +22,5 @@ Gehe dazu auf die Stift-Schaltfläche im oberen Bereich der Seite. Dort kommst d
 In dem Kreis neben dem Wort "Einträge" erkennst Du die Anzahl der Einträge in einem Aufgabenbereich.
 
 ## Wie kann ich einen neuen Eintrag erstellen?
-Klicke dazu auf einen Arbeitsbereich, von da aus gelangst Du auf eine Seite, auf der Du Einträge hinzufügen und bearbeiten kannst.
+Klicke dazu auf einen Arbeitsbereich, von da aus gelangst Du auf eine Seite, auf der Du Einträge hinzufügen und bearbeiten kannst.)
 
