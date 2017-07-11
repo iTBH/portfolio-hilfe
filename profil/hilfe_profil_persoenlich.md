@@ -20,7 +20,7 @@ Auf dieser Seite kannst Du Deine persönlichen Daten verwalten. Hier stehen Dir 
 Deine **E-Mail** kannst Du nicht verändern. Diese hast Du bereits bei der Anmeldung festgelegt.
 
 ## Wofür brauche ich meine persönlichen Daten?
-Deine persönlichen Daten werden zum Teil für deinen Ausbildungsnachweis benötigt. Deshalb solltest Du diese Daten stets **aktuell halten**.
+Deine persönlichen Daten werden zum Teil für deinen **Ausbildungsnachweis** benötigt. Deshalb solltest Du diese Daten stets **aktuell halten**.
 
 ## Wie kann ich Daten ändern?
 In der linken oberen Ecke findest Du eine kleine Schaltfläche (Stift), mit der Du die Bearbeitung einschalten kannst.
