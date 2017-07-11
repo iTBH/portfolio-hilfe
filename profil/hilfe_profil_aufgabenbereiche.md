@@ -9,6 +9,16 @@ Auf dieser Seite kannst du Aufgabenbereiche verwalten und improtieren.
 
 ## Wie kann ich Aufgabenbereiche hinzufügen?
 
+* Titel
+* Untertitel
+* Beschreibung
+* Schlagwörter 
+* Titelbild
+* Nummerierung des Aufgabenbereichs
+
+## Wie kann ich ein Titelbild einfügen?
+Denke daran, dass Du Deine Medien zuerst im **Bereich "Mediathek"** hochladen musst, bevor Du sie in Deinen Einträgen verwenden kannst.
+
 ## Wie kann ich Aufgabenbereiche bearbeiten oder löschen?
 
 ## Wie kann ich Aufgabenbereiche anderer User in mein Portfolio importieren?
