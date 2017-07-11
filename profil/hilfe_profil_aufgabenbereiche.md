@@ -42,4 +42,4 @@ Falls Du einen richtig tollen Aufgabenbereich erstellt hast und ihn mit Deinen M
 **Beachte bitte, dass es sich um eine Kopie Deines Aufgabenbereiches handelt. Wenn die Person die Kopie Deines Aufgabenbereiches importiert hat, sind es zwei verschiedene Aufgabenbereiche, die nicht verbunden sind.**
 
 ## Kann ich Aufgabenbereiche kopieren?
-Mit einem kleinen Trick kannst du einen Aufgabenbereich dublizieren. Erstelle einen Code zu deinem Aufgabenbereich und importiere einfach Deinen eigenen Aufgabenbereich. Dadurch erhälst Du eine Kopie eines Aufgabenbereichs.
+Mit einem kleinen Trick kannst Du einen Aufgabenbereich dublizieren. Erstelle einen Code zu Deinem Aufgabenbereich und importiere einfach Deinen eigenen Aufgabenbereich. Dadurch erhälst Du eine Kopie eines Aufgabenbereichs.
