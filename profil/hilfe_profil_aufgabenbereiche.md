@@ -11,7 +11,7 @@ In der Schule hast Du Lernfelder und im Betrieb Aufgaben oder Tätigkeiten. Aufg
 Falls du denkst, dass du mehr Aufgabenbereiche hast, als du schon vorfindest, kannst du diese hinzufügen. 
 
 ## Wie kann ich Aufgabenbereiche erstellen?
-Um neue Aufgabenbereiche zu erstellen, kannst du im oberen Bereich der Seite auf "*+*" gehen und kannst im Anschluss folgende Informationen eintragen:
+Um neue Aufgabenbereiche zu erstellen, kannst du im oberen Bereich der Seite auf "*+*" gehen und im Anschluss folgende Informationen eintragen:
 
 * Titel
 * Untertitel
@@ -24,6 +24,7 @@ Um neue Aufgabenbereiche zu erstellen, kannst du im oberen Bereich der Seite auf
 Denke daran, dass Du Deine Medien zuerst im **Bereich "Mediathek"** hochladen musst, bevor Du sie in Deinen Einträgen verwenden kannst.
 
 ## Wie kann ich Aufgabenbereiche bearbeiten oder löschen?
+Hierzu musst Du mindestens einen Aufgabenbereich auswählen und kannst im Anschluss auf den kleinen Stift im oberen Bereich der Seite klicken. Jetzt kannst du alles einstellen.
 
 ## Wie kann ich Aufgabenbereiche anderer User in mein Portfolio importieren?
 Im unteren Bereich der Seite befindet sich ein Feld "**Aufgabenbereiche importieren**". Du benötigst hierfür einen **Code** des Aufgabenbereichs, den Du importieren möchtest. 
