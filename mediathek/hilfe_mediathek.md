@@ -32,7 +32,7 @@ An jeder Datei gibt es die Möglichkeit zu sehen, wo Du sie verwendet hast. Du k
 Deine Daten gehören Dir. Neben jeder Datei gibt es eine Schaltflächte "Pfeil" zum runterladen Deiner Datei.
 
 ## Kann ich meine Dateien löschen?
-Neben jedem Bild gibt es eine Schaltflächte (Mülleimer) zum löschen einer Datei
+Neben jedem Bild gibt es eine Schaltflächte (Mülleimer) zum löschen einer Datei.
 
 ## Darf ich alles hochladen, was ich möchte?
 **Achte darauf, dass Du die Rechte für die Bilder besitzt, bevor du sie hochlädtst. Dein Portfolio ist ein geschlossener und gesicherter Raum, dein Arbeitgeber könnte es trotzdem nicht gut finden, wenn du Bilder auf verwendest, die er nicht freigegeben hat.**
