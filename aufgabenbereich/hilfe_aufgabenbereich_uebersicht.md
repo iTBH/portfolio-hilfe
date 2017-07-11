@@ -5,7 +5,7 @@
 
 
 
-[//]: <> (
+[//]: # (
 Auf dieser Seite siehst Du alle Arbeitsbereich, die Du erstellt oder importiert hast.
 
 ## Was sind Aufgabenbereiche?
