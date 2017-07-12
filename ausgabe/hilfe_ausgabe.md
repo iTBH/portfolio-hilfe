@@ -14,8 +14,12 @@ Der individuelle Bericht ist die Ausgabemöglichkeit Deiner Portfolioeinträge, 
 Du hast die Möglichkeit alle Einträge oder bestimmte (**gefilterte**) Einträge ausgeben zu lassen. Du hast also die Möglichkeit zu bestimmen, was du Lehrkräften, Chef, Kolleginnen und Kollegen, Eltern und Mitschülern zeigen möchtest. **Alle Einträge gehören Dir!**
 
 ## Kann ich die Einträge meines individuellen Berichts bestimmen?
+Generell kannst Du bei jedem Eintrag bestimmen, ob er in Deinem Bericht auftaucht. Dazu gibt es im unteren Bereich der Seite ein Auflistung aller Einträge.
+
 Filter
 * Aufgabenbereich
 * Lernorte
 * Schlagwörter
 * Zeitraum von/bis
+
+Nachdem Du die Einträge gefiltert hast, hast Du auch hier die Möglichkeit nochmal Einträge aus der Ausgabe rauszunehmen, indem du einfach das Häckchen neben dem Eintrag wegklickst.
