@@ -3,16 +3,16 @@ _ _ _
 Auf dieser Seite kanst Du Deinen **individuellen Bericht** und Deinen **Ausbildungsnachweis** als PDF ausgeben lassen.
 
 ## Was ist der Ausbildungsnachweis?
-Der schriftliche **Ausbildungsnachweis** ist das rechtlich bindende Dokument während deiner Ausbildung. Er dient Dir als **Informationsquelle** für die formalen Pflichten, die Du im Rahmen Deiner Ausbildung erfüllen musst. Du kannst dort auch Infos über Inhalte deiner Ausbildung erhalten.
-
-Der Ausbildungsnachweis gilt auch als **Bestätigung**, dass Du die Pflichten erfüllt hast, deshalb wird er auch vom Prüfungsausschuss unterzeichnet und ist damit verbindlich.
-Du musst den Ausbildungsnachweis auch regelmäßig Deinem **Ausbilder zur Abnahme** vorlegen.
-
-Damit Du immer die Übersicht behälst und die Pflichttexte schnell und einfach findest, solltest Du so vorgehen.
-Da du **regelmäßig Berichte und Zusammenfassungen abgeben** musst, solltest Du entsprechend deine Arbeiten mit folgenden Schlagwörtern versehen, um sie bei der **Ausgabe** geordnet zu exportieren:
+Der schriftliche **Ausbildungsnachweis** ist das rechtlich bindende Dokument während deiner Ausbildung. Da du **regelmäßig Berichte und Zusammenfassungen abgeben** musst, solltest Du entsprechend Deine Arbeiten (Einträge) mit folgenden Schlagwörtern versehen, um sie bei der **Ausgabe** geordnet zu exportieren:
 * **Schwerpunktbericht**
 * **Zusammenfassung**
-* **Quartalsbericht** 
+* **Quartalsbericht**
+
+Damit Du immer die **Übersicht behälst** und die Pflichttexte schnell und einfach findest, solltest Du diese Schlagwörter verwenden.
+
+Der Ausbildungsnachweis gilt auch als **Bestätigung**, dass Du die Pflichten erfüllt hast, deshalb wird er auch vom Prüfungsausschuss unterzeichnet und ist damit verbindlich. Du musst den Ausbildungsnachweis auch regelmäßig Deinem **Ausbilder zur Abnahme** vorlegen und unterschreiben lassen.
+
+Der Ausbildungsnachweis dient Dir auch als **Informationsquelle** für die **formalen Pflichten**, die Du im Rahmen Deiner Ausbildung erfüllen musst. Du kannst dort auch Infos über Inhalte und Aufgabenbereiche Deiner Ausbildung erhalten.
 
 **Lass dir den Ausbildungsnachweis ausgeben und schau, was dich in Deiner Ausbildung erwartet. Du wirst merken, dass Du dort die Aufgabenbereiche, Lernfelder und Tätigkeiten aus dem Unterricht, dem Betrieb und Deinem Portfolio wiederfindest.**
 
@@ -30,12 +30,15 @@ Zusätzlich kannst Du die Einträge nach folgenden Kriterien filtern und so ganz
 
 Nachdem Du die Einträge gefiltert hast, hast Du auch hier die Möglichkeit nochmal Einträge aus der Ausgabe rauszunehmen, indem du einfach das Häckchen neben dem Eintrag wegklickst.
 
+Wenn Du also z.B. nur Deine Schwerpunktberichte aus dem ersten Ausbildungsjahr ausgeben möchtest, gibst Du "Schwerpunktbericht" im Feld Schlagwörter und den entsprechenden Zeitraum beim Datum an.
+
 ## Kann ich meine Einträge zeitlich sortieren?
 Du hast im oberen Bereich der Seite die Möglichkeit auszuwählen, ob Deine Einträge aufwärts (ältere Einträge zuerst) oder abwärts (neuere Einträge zuerst) nach dem Datum sortiert werden.
+Für Deinen schriflichen Ausbildungsnachweis solltest Du die Einstellung "Datum abwärts" wählen, da dies für den Ausbildungsnachweis so gefordert wird.
 
 ## Wofür ist der Titel und Untertitel beim individuellen Bericht?
 Bei der Ausgabe Deines individuellen Berichts wird automatisch eine Titelseite erstellt.
-Du hast due Möglichkeit den Titel und Untertitel zu bestimmen, sie sind aber keine Pflicht. Sonst stehen immer folgende Angaben auf der Titelseite:
+Du hast die Möglichkeit den Titel und Untertitel zu bestimmen, sie sind aber keine Pflicht. Sonst stehen immer folgende Angaben auf der Titelseite:
 * Name + Nachname
 * Beruf
 * Erstellungsdatum des Berichts
