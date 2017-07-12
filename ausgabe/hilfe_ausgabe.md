@@ -5,7 +5,8 @@ Auf dieser Seite kanst Du Deinen **individuellen Bericht** und Deinen **Ausbildu
 ## Was ist der Ausbildungsnachweis?
 Der schriftliche **Ausbildungsnachweis** ist das rechtlich bindende Dokument während deiner Ausbildung. Er dient Dir als **Informationsquelle** für die formalen Pflichten, die Du im Rahmen Deiner Ausbildung erfüllen musst. Du kannst dort auch Infos über Inhalte deiner Ausbildung erhalten.
 
-Der Ausbildungsnachweis gilt auch als **Bestätigung**, dass Du die Pflichten erfüllt hast, deshalb wird er auch vom Prüfungsausschuss unterzeichnet und ist damit verbindlich. (**Hier brauche ich Hinweise von Sarah. Ich weiß nicht genau wie es mit dem Nachweis aussieht**)
+Der Ausbildungsnachweis gilt auch als **Bestätigung**, dass Du die Pflichten erfüllt hast, deshalb wird er auch vom Prüfungsausschuss unterzeichnet und ist damit verbindlich.
+Du musst den Ausbildungsnachweis auch regelmäßig Deinem **Ausbilder zur Abnahme** vorlegen.
 
 **Lass dir den Ausbildungsnachweis ausgeben und schau, was dich in Deiner Ausbildung erwartet. Du wirst merken, dass Du dort die Aufgabenbereiche, Lernfelder und Tätigkeiten aus dem Unterricht, dem Betrieb und Deinem Portfolio wiederfindest.**
 
