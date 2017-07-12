@@ -8,8 +8,8 @@ Der schriftliche **Ausbildungsnachweis** ist das rechtlich bindende Dokument wä
 Der Ausbildungsnachweis gilt auch als **Bestätigung**, dass Du die Pflichten erfüllt hast, deshalb wird er auch vom Prüfungsausschuss unterzeichnet und ist damit verbindlich.
 Du musst den Ausbildungsnachweis auch regelmäßig Deinem **Ausbilder zur Abnahme** vorlegen.
 
-Damit Du immer die Übersicht behälst und die Pflichttexte schnell und einfach findest, solltest du so vorgehen.
-Da du **regelmäßig Berichte und Zusammenfassungen abgeben** musst, solltest du entsprechend deine Arbeiten mit folgenden Schlagwörtern versehen, um sie bei der **Ausgabe** geordnet zu exportieren:
+Damit Du immer die Übersicht behälst und die Pflichttexte schnell und einfach findest, solltest Du so vorgehen.
+Da du **regelmäßig Berichte und Zusammenfassungen abgeben** musst, solltest Du entsprechend deine Arbeiten mit folgenden Schlagwörtern versehen, um sie bei der **Ausgabe** geordnet zu exportieren:
 * **Schwerpunktbericht**
 * **Zusammenfassung**
 * **Quartalsbericht** 
