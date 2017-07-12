@@ -14,11 +14,11 @@ Der Ausbildungsnachweis gilt auch als **Bestätigung**, dass Du die Pflichten er
 
 Der Ausbildungsnachweis dient Dir auch als **Informationsquelle** für die **formalen Pflichten**, die Du im Rahmen Deiner Ausbildung erfüllen musst. Du kannst dort auch Infos über Inhalte und Aufgabenbereiche Deiner Ausbildung erhalten.
 
-**Lass dir den Ausbildungsnachweis ausgeben und schau, was dich in Deiner Ausbildung erwartet. Du wirst merken, dass Du dort die Aufgabenbereiche, Lernfelder und Tätigkeiten aus dem Unterricht, dem Betrieb und Deinem Portfolio wiederfindest.**
+**Lass Dir den Ausbildungsnachweis ausgeben und schau, was dich in Deiner Ausbildung erwartet. Du wirst merken, dass Du dort die Aufgabenbereiche, Lernfelder und Tätigkeiten aus dem Unterricht, dem Betrieb und Deinem Portfolio wiederfindest.**
 
 ## Was ist der individuelle Bericht?
 Der individuelle Bericht ist die Ausgabemöglichkeit Deiner Portfolioeinträge, wenn Du sie für Dich oder für jemanden anderes in geordneter Form präsentieren möchtest.
-Du hast die Möglichkeit alle Einträge oder bestimmte (**gefilterte**) Einträge ausgeben zu lassen. Du hast also die Möglichkeit zu bestimmen, was du Lehrkräften, Chef, Kolleginnen und Kollegen, Eltern und Mitschülern zeigen möchtest. **Alle Einträge gehören Dir!**
+Du hast die Möglichkeit alle Einträge oder bestimmte (**gefilterte**) Einträge ausgeben zu lassen. Du hast also die Möglichkeit zu bestimmen, was Du Lehrkräften, Chef, Kolleginnen und Kollegen, Eltern und Mitschülern zeigen möchtest. **Alle Einträge gehören Dir!**
 
 ## Kann ich die Einträge meines individuellen Berichts bestimmen?
 Generell kannst Du bei jedem Eintrag bestimmen, ob er in Deinem Bericht auftaucht. Dazu gibt es im unteren Bereich der Seite eine Auflistung aller Einträge.
