@@ -27,5 +27,5 @@ Die folgenden Daten kannst Du bei einem Lernort anpassen.
 * Webseite
 
 ## Wie kann ich Lernorte verwalten?
-Für die Verwaltung kannst Du auf das kleine Stift-Symbol rechts neben jedem Lernort gehen, um ihn zu **bearbeiten**. Zusätzlich kannst du einen Lernort hier **löschen**
+Für die Verwaltung kannst Du auf das kleine Stift-Symbol rechts neben jedem Lernort gehen, um ihn zu **bearbeiten**. Zusätzlich kannst du einen Lernort hier **löschen**.
 
