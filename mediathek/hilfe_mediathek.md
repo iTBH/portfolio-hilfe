@@ -34,4 +34,4 @@ Deine Daten gehören Dir. Neben jeder Datei gibt es eine Schaltflächte "Pfeil" 
 Neben jedem Bild gibt es eine Schaltflächte (Mülleimer) zum löschen einer Datei.
 
 ## Darf ich alles hochladen, was ich möchte?
-**Achte darauf, dass Du die Rechte für die Bilder besitzt, bevor du sie hochlädtst. Dein Portfolio ist ein geschlossener und gesicherter Raum, dein Arbeitgeber könnte es trotzdem nicht gut finden, wenn du Bilder verwendest, die er nicht freigegeben hat. Frage ihn oder sie am besten, wenn Du Dir unsicher bist, ob Du die Bilder für Dein Ausbildungsportfolio verwenden darfst.**
+**Achte darauf, dass Du die Rechte für die Bilder besitzt, bevor du sie hochlädtst. Dein Portfolio ist ein geschlossener und gesicherter Raum, dein Arbeitgeber könnte es trotzdem nicht gut finden, wenn du Bilder verwendest, die er nicht freigegeben hat. Frage ihn oder sie besser vorher, wenn Du Dir unsicher bist, ob Du die Bilder für Dein Ausbildungsportfolio verwenden darfst.**
