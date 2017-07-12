@@ -22,3 +22,6 @@ Zusätzlich kannst Du die Einträge nach folgenden Kriterien filtern und so ganz
 * Zeitraum von/bis
 
 Nachdem Du die Einträge gefiltert hast, hast Du auch hier die Möglichkeit nochmal Einträge aus der Ausgabe rauszunehmen, indem du einfach das Häckchen neben dem Eintrag wegklickst.
+
+## Kann ich meine Einträge zeitlich sortieren?
+Du hast im oberen Bereich der Seite die Möglichkeit auszuwählen, ob Deine Einträge aufwärts (ältere Einträge zuerst) oder abwärts (neuere Einträge zuerst) nach dem Datum sortiert werden.
