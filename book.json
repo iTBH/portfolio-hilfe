@@ -35,7 +35,7 @@
   "title": "Portfolio-Hilfe",
   "description": "Online-Hilfe für das Portfolio des ITBH an der TU Hamburg",
   "colors": {
-    "sidebarBackground": "#ffa41d",
+    "sidebarBackground": "#008B98"/*#ffa41d*/,
     "sidebarColor": "#fff",
     "partHeaderColor": "#364149",
     "sidebarLink": "#fff",
