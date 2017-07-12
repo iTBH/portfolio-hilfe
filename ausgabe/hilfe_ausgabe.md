@@ -25,3 +25,10 @@ Nachdem Du die Einträge gefiltert hast, hast Du auch hier die Möglichkeit noch
 
 ## Kann ich meine Einträge zeitlich sortieren?
 Du hast im oberen Bereich der Seite die Möglichkeit auszuwählen, ob Deine Einträge aufwärts (ältere Einträge zuerst) oder abwärts (neuere Einträge zuerst) nach dem Datum sortiert werden.
+
+## Wofür ist der Titel und Untertitel beim individuellen Bericht?
+Bei der Ausgabe Deines individuellen Berichts wird automatisch eine Titelseite erstellt.
+Du hast due Möglichkeit den Titel und Untertitel zu bestimmen, sie sind aber keine Pflicht. Sonst stehen immer folgende Angaben auf der Titelseite:
+* Name + Nachname
+* Beruf
+* Erstellungsdatum des Berichts
