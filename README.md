@@ -18,4 +18,4 @@ Wenn Du möchstest, kannst Du Dir die gesamte Hilfe als PDF auf deinen PC laden.
 * Medien verwalten
 * Die Ausgabe des individuellen Portfolios und des Ausbildungsnachweises
 
-Viel Spaß bei Stöbern in der Portfolio-Hilfe
+Viel Spaß beim Stöbern in der Portfolio-Hilfe
