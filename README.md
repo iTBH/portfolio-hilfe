@@ -4,7 +4,7 @@
 # Einleitung
 
 Auf diesen Seiten findest Du nützliche Hilfestellungen zum Einsatz Deines Portfolios. Auf jeder Seite findest Du in der oberen rechten Ecke den Button "Hilfe". Wenn Du darauf klickst, kannst Du wichtige Informationen für die Funktionen auf der aktuellen Seite finden.
-Wenn Du möchstest, kannst Du Dir die gesamte Hilfe als PDF auf deinen PC laden. Die entsprechende Funktion findest Du oben links.
+Wenn Du möchstest, kannst Du Dir die gesamte Hilfe als PDF auf deinen PC laden. Die entsprechende Funktion findest Du oben links. Folgende Informationen findest du in der Hilfe:
 
 
 * [Erklärungen zum Dashboard](https://fizban05.rz.tu-harburg.de/itbh/portfolio-hilfe/dashboard/hilfe_dashboard.html)
