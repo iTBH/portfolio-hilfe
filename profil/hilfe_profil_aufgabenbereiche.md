@@ -1,18 +1,16 @@
 # Deine Aufgabenbereiche
-
 - - - 
-Auf dieser Seite kannst du Aufgabenbereiche **verwalten** und **improtieren**.
+Auf dieser Seite kannst Du Aufgabenbereiche **verwalten** und **improtieren**.
 
 ## Was sind Aufgabenbereiche?
-Aufgabenbereiche sind, wie **Behälter** (Mappen) für Deine Einträge. Sie sind dazu da, um deine Tätigkeiten und Aufgaben in Betrieb und Schule zu **verbinden**. Sie sind das Herzstück Deines Portfolios und beinhalten alle Deine Einträge.
+Aufgabenbereiche sind wie **Behälter** (Mappen) für Deine Einträge. Sie sind dazu da, um Deine Tätigkeiten und Aufgaben in Betrieb und Schule zu **verbinden**. Sie sind das Herzstück Deines Portfolios und beinhalten alle Deine Einträge.
 
 ## Wofür benötige ich Aufgabenbereiche?
-In der Schule hast Du Lernfelder und im Betrieb Aufgaben oder Tätigkeiten. Aufgabenbereiche bieten Dir eine Möglichkeit alle wichtigen Einträge aus beiden Welten gleichzeitig zu sehen. In Deiner Ausbildung gibt es eine bestimmte Anzahl von Aufgabenbereichen, die festgelgt sind. Diese wirst Du zusammen mit Deinen Lehrern in Dein Portfolio importieren. Du hast allerdings **keine Einschränkungen** und kannst **beliebig viele** Aufgabenbereiche in Deinem Portfolio erstellen. 
-Falls du denkst, dass du mehr Aufgabenbereiche in deinem Betrieb hast, als du schon vorfindest, kannst du diese hinzufügen. Keine Sorge, Du kannst die Einträge später auch **umsortieren**.
+In der Schule hast Du Lernfelder und im Betrieb Aufgaben oder Tätigkeiten. Aufgabenbereiche bieten Dir eine Möglichkeit alle wichtigen Einträge aus beiden Welten gleichzeitig zu sehen. In Deiner Ausbildung gibt es eine bestimmte Anzahl von Aufgabenbereichen, die festgelgt sind. Diese wirst Du zusammen mit Deinen Lehrerinnen und Lehrern in Dein Portfolio importieren. Du hast allerdings **keine Einschränkungen** und kannst **beliebig viele** Aufgabenbereiche in Deinem Portfolio erstellen. 
+Falls du denkst, dass Du mehr Aufgabenbereiche in Deinem Betrieb hast, als Du schon vorfindest, kannst Du diese hinzufügen. Keine Sorge, Du kannst die Einträge später auch **umsortieren**.
 
 ## Wie kann ich Aufgabenbereiche erstellen?
-Um neue Aufgabenbereiche zu erstellen, kannst du im oberen Bereich der Seite auf "*+*" gehen und im Anschluss folgende Informationen eintragen:
-
+Um neue Aufgabenbereiche zu erstellen, kannst Du im oberen Bereich der Seite auf "*+*" gehen und im Anschluss folgende Informationen eintragen:
 * Titel
 * Untertitel
 * Beschreibung
@@ -30,12 +28,11 @@ Mit dem Feld **Nummerierung des Aufgabenbereichs** kannst du jedem Aufgabenberei
 Hierzu musst Du mindestens einen Aufgabenbereich auswählen und kannst im Anschluss auf den kleinen Stift im oberen Bereich der Seite klicken. Jetzt kannst du alles einstellen.
 
 ## Wie kann ich Aufgabenbereiche anderer User in mein Portfolio importieren?
-Im unteren Bereich der Seite befindet sich ein Feld "**Aufgabenbereiche importieren**". Du benötigst hierfür einen **Code** des Aufgabenbereichs, den Du importieren möchtest. 
-
+Im unteren Bereich der Seite befindet sich ein Feld "**Aufgabenbereiche importieren**". Du benötigst hierfür einen **Code** des Aufgabenbereichs, den Du importieren möchtest. Falls Du bereits einen Code hast, kopiere ihn in das Feld und klicke auf "Importieren"
 
 ## Wie kann ich meine Aufgabenbereiche mit anderen Usern teilen?
-Falls Du einen richtig tollen Aufgabenbereich erstellt hast und ihn mit Deinen Mitschülerinnen und Mitschülern oder Lehrerinnen und Lehrern teilen möchstes, kannst Du auch das ganz einfach machen. 
-* Wähle dazu zunächst mindestens einen Aufgabenbereich, den du teilen möchstest, aus.
+Falls Du einen tollen Aufgabenbereich erstellt hast und ihn mit Deinen Mitschülerinnen und Mitschülern oder Lehrerinnen und Lehrern teilen möchstes, kannst Du auch das ganz einfach machen. 
+* Wähle dazu zunächst mindestens einen Aufgabenbereich, den Du teilen möchstest, aus.
 * Im oberen Bereich der Seite findest Du das **Eingabefeld "Code"**. Klicke auf den Pfeil "**Code generieren**", dann erscheint Dein persönlicher Code für den ausgewählten Aufgabenbereich.
 * **Verschicke den Code an alle, mit denen Du diesen Aufgabenbereich teilen möchtest.
 
