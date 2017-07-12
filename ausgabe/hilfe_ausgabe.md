@@ -20,4 +20,5 @@ Zusätzlich kannst Du die Einträge nach folgenden Kriterien filtern und so ganz
 * Lernorte
 * Schlagwörter
 * Zeitraum von/bis
+
 Nachdem Du die Einträge gefiltert hast, hast Du auch hier die Möglichkeit nochmal Einträge aus der Ausgabe rauszunehmen, indem du einfach das Häckchen neben dem Eintrag wegklickst.
