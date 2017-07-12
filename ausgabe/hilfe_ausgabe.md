@@ -9,10 +9,10 @@ Der Ausbildungsnachweis gilt auch als **Bestätigung**, dass Du die Pflichten er
 Du musst den Ausbildungsnachweis auch regelmäßig Deinem **Ausbilder zur Abnahme** vorlegen.
 
 Damit Du immer die Übersicht behälst und die Pflichttexte schnell und einfach findest, solltest du so vorgehen.
-Da du regelmäßig Berichte und Zusammenfassungen abgeben musst, solltest du entsprechend deine Arbeiten mit folgenden Schlagwörtern versehen:
-* Schwerpunktbericht
-* Zusammenfassung
-* Quartalsbericht 
+Da du **regelmäßig Berichte und Zusammenfassungen abgeben** musst, solltest du entsprechend deine Arbeiten mit folgenden Schlagwörtern versehen, um sie bei der **Ausgabe** geordnet zu exportieren:
+* **Schwerpunktbericht**
+* **Zusammenfassung**
+* **Quartalsbericht** 
 
 **Lass dir den Ausbildungsnachweis ausgeben und schau, was dich in Deiner Ausbildung erwartet. Du wirst merken, dass Du dort die Aufgabenbereiche, Lernfelder und Tätigkeiten aus dem Unterricht, dem Betrieb und Deinem Portfolio wiederfindest.**
 
