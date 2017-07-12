@@ -11,4 +11,11 @@ Wenn Du möchstest, kannst Du Dir die gesamte Hilfe als PDF auf deinen PC laden.
 * [Persönliche Daten verwalten](https://fizban05.rz.tu-harburg.de/itbh/portfolio-hilfe/profil/hilfe_profil_persoenlich.html)
 * [Lernorte verwalten](https://fizban05.rz.tu-harburg.de/itbh/portfolio-hilfe/profil/hilfe_profil_lernorte.html)
 * [Arbeitsbereiche verwalten](https://fizban05.rz.tu-harburg.de/itbh/portfolio-hilfe/profil/hilfe_profil_aufgabenbereiche.html)
-* usw.
+* Einen Eintrag verfassen
+* Ansicht eines Eintrags
+* Aufgabenbereich in der Übersicht
+* Schlagwörter verwalten
+* Medien verwalten
+* Die Ausgabe des individuellen Portfolios und des Ausbildungsnachweises
+
+Viel Spaß bei Stöbern in der Portfolio-Hilfe
