@@ -15,13 +15,9 @@ Du hast die Möglichkeit alle Einträge oder bestimmte (**gefilterte**) Einträg
 
 ## Kann ich die Einträge meines individuellen Berichts bestimmen?
 Generell kannst Du bei jedem Eintrag bestimmen, ob er in Deinem Bericht auftaucht. Dazu gibt es im unteren Bereich der Seite eine Auflistung aller Einträge.
-
-Zusätzlich kannst du die Einträge nach folgenden Kriterien filtern und so ganz genau bestimmen, welche Einträge du in die Ausgabe deines Berichts legen möchtest.
-
-Filter
+Zusätzlich kannst Du die Einträge nach folgenden Kriterien filtern und so ganz genau bestimmen, welche Einträge Du in die Ausgabe Deines individuellen Berichts legen möchtest:
 * Aufgabenbereich
 * Lernorte
 * Schlagwörter
 * Zeitraum von/bis
-
 Nachdem Du die Einträge gefiltert hast, hast Du auch hier die Möglichkeit nochmal Einträge aus der Ausgabe rauszunehmen, indem du einfach das Häckchen neben dem Eintrag wegklickst.
