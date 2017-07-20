@@ -12,12 +12,12 @@ Auf dieser Seite kannst Du Deine Schlagwörter, die Du in Deinem Portfolio verwe
 * Du kannst Schlagwörter **löschen**.
 * Du kannst neue Schlagwörter **erstellen**.
 
-Eine nützliche Funktion für neue Schlagwörter findest Du, wenn Du neue Einträge oder Bilder hinzufügst oder bearbeitest. Dort kannst Du einfach in einem Feld neue Schlagwärter eintragen. Damit musst Du nicht immer wieder zu dieser Ansicht wechseln.
+Eine nützliche Funktion für neue Schlagwörter findest Du, wenn Du neue Einträge oder Bilder hinzufügst oder bearbeitest. Dort kannst Du einfach in einem Feld neue Schlagwörter eintragen. Damit musst Du nicht immer wieder zu dieser Ansicht wechseln.
 
 ## Wo habe ich Schlagwörter bereits verwendet?
 
 In der Spalte "Verwendungen" kannst Du sehen, wie oft Du ein Schlagwort in Deinem Portfolio verwendet hast.
 Wenn Du **alle Einträge und Medien sehen** möchtest, die mit einem bestimmten Schlagwort verbunden sind, klicke einfach auf das Schlagwort.
 
-**Achte darauf, dass Du ein Schlagwort nur einmal verwendest, da Du Deine Einträge sonst nicht eindeutig wiederfinden kannst.**
+**Achte darauf, dass Du ein Schlagwort nur einmal in diese Liste einträgst, da Du Deine Einträge sonst nicht eindeutig wiederfinden kannst. Ein Schlagwort kannst Du natürlich bei Deinen Einträgen und Medien so oft verwenden, wie Du möchtest.**
 
