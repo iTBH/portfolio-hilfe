@@ -1,6 +1,6 @@
 # Ausgabe
 _ _ _
-Auf dieser Seite kanst Du Deinen **individuellen Bericht** und Deinen **Ausbildungsnachweis** als PDF ausgeben lassen.
+Auf dieser Seite kannst Du Deinen **individuellen Bericht** und Deinen **Ausbildungsnachweis** als PDF ausgeben lassen.
 
 ## Was ist der Ausbildungsnachweis?
 Der schriftliche **Ausbildungsnachweis** ist das rechtlich bindende Dokument während deiner Ausbildung. Da du **regelmäßig Berichte und Zusammenfassungen abgeben** musst, solltest Du entsprechend Deine Arbeiten (Einträge) mit folgenden Schlagwörtern versehen, um sie bei der **Ausgabe** geordnet zu exportieren:
@@ -8,9 +8,9 @@ Der schriftliche **Ausbildungsnachweis** ist das rechtlich bindende Dokument wä
 * **Zusammenfassung**
 * **Quartalsbericht**
 
-Damit Du immer die **Übersicht behälst** und die Pflichttexte schnell und einfach findest, solltest Du diese Schlagwörter verwenden.
+Damit Du immer die **Übersicht behältst** und die Pflichttexte schnell und einfach findest, solltest Du diese Schlagwörter verwenden.
 
-Der Ausbildungsnachweis gilt auch als **Bestätigung**, dass Du die Pflichten erfüllt hast, deshalb wird er auch vom Prüfungsausschuss unterzeichnet und ist damit verbindlich. Du musst den Ausbildungsnachweis auch regelmäßig Deinem **Ausbilder zur Abnahme** vorlegen und unterschreiben lassen.
+Der Ausbildungsnachweis gilt auch als **Bestätigung**, dass Du die Pflichten erfüllt hast, deshalb musst Du ihn zur Zwischenprüfung und zur Abschlussprüfung vorlegen und vom Prüfungsausschuss unterzeichnen lassen. Du musst den Ausbildungsnachweis auch regelmäßig Deinem **Ausbilder zur Abnahme** vorlegen und unterschreiben lassen.
 
 Der Ausbildungsnachweis dient Dir auch als **Informationsquelle** für die **formalen Pflichten**, die Du im Rahmen Deiner Ausbildung erfüllen musst. Du kannst dort auch Infos über Inhalte und Aufgabenbereiche Deiner Ausbildung erhalten.
 
@@ -28,7 +28,7 @@ Zusätzlich kannst Du die Einträge nach folgenden Kriterien filtern und so ganz
 * Schlagwörter
 * Zeitraum von/bis
 
-Nachdem Du die Einträge gefiltert hast, hast Du auch hier die Möglichkeit nochmal Einträge aus der Ausgabe rauszunehmen, indem du einfach das Häckchen neben dem Eintrag wegklickst.
+Nachdem Du die Einträge gefiltert hast, hast Du auch hier die Möglichkeit nochmal Einträge aus der Ausgabe heraus zu nehmen, indem du einfach das Häckchen neben dem Eintrag weg klickst.
 
 Wenn Du also z.B. nur Deine Schwerpunktberichte aus dem ersten Ausbildungsjahr ausgeben möchtest, gibst Du "Schwerpunktbericht" im Feld Schlagwörter und den entsprechenden Zeitraum beim Datum an.
 
