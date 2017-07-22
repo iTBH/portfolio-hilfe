@@ -1,6 +1,8 @@
 # Eintrag erstellen
-
 - - - 
+Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite.
+![Schlagwörter](media/Ausbildungsportfolio_final-05.jpg)
+
 Du möchstest einen **neuen Eintrag erstellen**? Fülle dazu alle wichtigen Informationen aus und klicke auf "speichern".
 
 ## Welche Informationen kann ich einpflegen?
