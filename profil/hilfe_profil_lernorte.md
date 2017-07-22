@@ -3,6 +3,7 @@
 
 Auf dieser Seite kannst Du Lernorte erstellen und verwalten.
 Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite.
+
 ![Deine Lernorte](media/Ausbildungsportfolio_final-12.jpg)
 
 
@@ -30,7 +31,6 @@ Die folgenden Daten kannst Du bei einem Lernort anpassen.
 * Webseite
 
 ![Einen neuen Lernort eintragen](media/Ausbildungsportfolio_final-13.jpg)
-
 
 ## Wie kann ich Lernorte verwalten?
 Für die Verwaltung kannst Du auf das kleine Stift-Symbol rechts neben jedem Lernort gehen, um ihn zu **bearbeiten**. Zusätzlich kannst du einen Lernort hier **löschen**.
