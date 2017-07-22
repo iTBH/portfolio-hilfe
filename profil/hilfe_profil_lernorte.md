@@ -3,7 +3,7 @@
 
 Auf dieser Seite kannst Du Lernorte erstellen und verwalten.
 Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite.
-![Schlagwörter](media/Ausbildungsportfolio_final-12.jpg)
+![Deine Lernorte](media/Ausbildungsportfolio_final-12.jpg)
 
 
 ## Was sind Lernorte?
@@ -29,7 +29,7 @@ Die folgenden Daten kannst Du bei einem Lernort anpassen.
 * Postleitzahl und Ort
 * Webseite
 
-![Schlagwörter](media/Ausbildungsportfolio_final-13.jpg)
+![Einen neuen Lernort eintragen](media/Ausbildungsportfolio_final-13.jpg)
 
 
 ## Wie kann ich Lernorte verwalten?
