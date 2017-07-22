@@ -3,7 +3,6 @@
 Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite.
 ![Einträge des Aufgabenbereichs](media/Ausbildungsportfolio_final-04.jpg)
 
-
 ## Was ist die Eintragsübersicht?
 Bei der Eintragsübersicht kannst Du alle Deine Einträge in einem bestimmten Arbeitsbereich einsehen.
 Hier siehst du das **Datum** und den **Titel** unter jedem Eintrag.
