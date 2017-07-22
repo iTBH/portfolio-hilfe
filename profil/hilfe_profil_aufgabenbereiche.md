@@ -2,7 +2,7 @@
 - - - 
 Auf dieser Seite kannst Du Aufgabenbereiche **verwalten** und **importieren**.
 Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite.
-![Schlagwörter](media/Ausbildungsportfolio_final-14.jpg)
+![Aufgabenbereiche](media/Ausbildungsportfolio_final-14.jpg)
 
 
 ## Was sind Aufgabenbereiche?
@@ -21,7 +21,7 @@ Um neue Aufgabenbereiche zu erstellen, kannst Du im oberen Bereich der Seite auf
 * Titelbild
 * Nummerierung des Aufgabenbereichs
 
-![Schlagwörter](media/Ausbildungsportfolio_final-15.jpg)
+![Einen neuen Aufgabenbereich hinzufügen](media/Ausbildungsportfolio_final-15.jpg)
 
 ## Wie kann ich ein Titelbild einfügen?
 Denke daran, dass Du Deine Medien zuerst im **Bereich "Mediathek"** hochladen musst, bevor Du sie in Deinen Einträgen verwenden kannst.
