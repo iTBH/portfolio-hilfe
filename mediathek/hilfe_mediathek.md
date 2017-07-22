@@ -1,7 +1,7 @@
 # Die Mediathek
 - - - 
 Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite.
-![Schlagwörter](media/Ausbildungsportfolio_final-07.jpg)
+![Die Mediathek](media/Ausbildungsportfolio_final-07.jpg)
 
 ## Was ist die Mediathek?
 Die Mediathek ist Dein Medienzentrum. Hier verwaltest Du alle für Dein Portfolio wichtigen Bilder und Medien.
@@ -27,7 +27,7 @@ Folgende Angaben kannst Du zu jeder Datei machen:
 * Schlagwörter
 
 
-![Schlagwörter](media/Ausbildungsportfolio_final-08.jpg)
+![Ein Medium eintragen](media/Ausbildungsportfolio_final-08.jpg)
 
 
 ## Kann ich sehen, wo ich eine bestimmte Datei verwendet habe?
