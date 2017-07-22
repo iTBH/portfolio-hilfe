@@ -21,6 +21,8 @@ Um neue Aufgabenbereiche zu erstellen, kannst Du im oberen Bereich der Seite auf
 * Titelbild
 * Nummerierung des Aufgabenbereichs
 
+![Schlagwörter](media/Ausbildungsportfolio_final-15.jpg)
+
 ## Wie kann ich ein Titelbild einfügen?
 Denke daran, dass Du Deine Medien zuerst im **Bereich "Mediathek"** hochladen musst, bevor Du sie in Deinen Einträgen verwenden kannst.
 
