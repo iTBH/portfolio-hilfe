@@ -21,3 +21,4 @@ Wenn Du **alle Einträge und Medien sehen** möchtest, die mit einem bestimmten 
 
 **Achte darauf, dass Du ein Schlagwort nur einmal in diese Liste einträgst, da Du Deine Einträge sonst nicht eindeutig wiederfinden kannst. Ein Schlagwort kannst Du natürlich bei Deinen Einträgen und Medien so oft verwenden, wie Du möchtest.**
 
+![Schlagwörter](media/Ausbildungsportfolio_final-09.jpg)
