@@ -1,7 +1,7 @@
 # Dashboard
 - - - 
 Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite.
-![Schlagwörter](media/Ausbildungsportfolio_final-03.jpg)
+![Das Dashboard](media/Ausbildungsportfolio_final-03.jpg)
 
 ## Was ist das Dashboard?
 Auf dieser Seite siehst Du alle Aufgabenbereiche, die Du erstellt oder importiert hast.
