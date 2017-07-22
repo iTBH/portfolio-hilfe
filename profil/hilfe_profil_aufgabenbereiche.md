@@ -1,6 +1,9 @@
 # Deine Aufgabenbereiche
 - - - 
 Auf dieser Seite kannst Du Aufgabenbereiche **verwalten** und **importieren**.
+Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite.
+![Schlagwörter](media/Ausbildungsportfolio_final-14.jpg)
+
 
 ## Was sind Aufgabenbereiche?
 Aufgabenbereiche sind vergleichbar mit **Behältern** (Mappen) für Deine Einträge. Sie sind dazu da, um Deine Tätigkeiten und Aufgaben in Betrieb und Schule zu **verbinden**. Sie sind das Herzstück Deines Portfolios und beinhalten alle Deine Einträge.
