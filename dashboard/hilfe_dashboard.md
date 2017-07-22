@@ -15,7 +15,7 @@ In der Schule hast Du Lernfelder und im Betrieb Aufgaben oder Tätigkeiten. Aufg
 Falls Du denkst, dass Du mehr Aufgabenbereiche in Deinem Betrieb hast, als Du schon vorfindest, kannst Du diese hinzufügen. Keine Sorge, Du kannst die Einträge später auch **umsortieren**.
 
 ## Wie kann ich Aufgabenbereiche erstellen, bearbeiten oder löschen?
-Wie Du Aufgabenbereiche verwaltest, erfährst Du, wenn Du auf das kleine Stift-Symbol in der rechten oberen Ecke klickst und auf der nächsten Seite auf "Hilfe" klickst. Über [diesen](../profil/hilfe/hilfe_profil_aufgabenbereiche.md) Link kommst Du auch direkt zu der Hilfeseite.
+Wie Du Aufgabenbereiche verwaltest, erfährst Du, wenn Du auf das kleine Stift-Symbol in der rechten oberen Ecke klickst und auf der nächsten Seite auf "Hilfe" klickst.
 
 ## Wie viele Einträge hat ein Aufgabenbereich?
 In dem Kreis neben dem Wort "Einträge" erkennst Du die Anzahl der Einträge in einem Aufgabenbereich.
