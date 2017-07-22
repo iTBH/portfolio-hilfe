@@ -20,7 +20,7 @@ Eine nützliche Funktion für neue Schlagwörter findest Du, wenn Du neue Eintr�
 In der Spalte "Verwendungen" kannst Du sehen, wie oft Du ein Schlagwort in Deinem Portfolio verwendet hast.
 Wenn Du **alle Einträge und Medien sehen** möchtest, die mit einem bestimmten Schlagwort verbunden sind, klicke einfach auf das Schlagwort.
 
-![Schlagwörter](media/Ausbildungsportfolio_final-10.jpg)
+![Übericht der Verwendung von Schlagwörtern](media/Ausbildungsportfolio_final-10.jpg)
 
 **Achte darauf, dass Du ein Schlagwort nur einmal in diese Liste einträgst, da Du Deine Einträge sonst nicht eindeutig wiederfinden kannst. Ein Schlagwort kannst Du natürlich bei Deinen Einträgen und Medien so oft verwenden, wie Du möchtest.**
 
