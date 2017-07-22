@@ -2,7 +2,7 @@
 _ _ _
 Auf dieser Seite kannst Du Deinen **individuellen Bericht** und Deinen **Ausbildungsnachweis** als PDF ausgeben lassen.
 Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite.
-![Schlagwörter](media/Ausbildungsportfolio_final-16.jpg)
+![Ausgabe des individuellen Berichts und des Ausbildungsnachweises](media/Ausbildungsportfolio_final-16.jpg)
 
 
 ## Was ist der Ausbildungsnachweis?
