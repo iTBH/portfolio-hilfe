@@ -1,6 +1,9 @@
 # Ausgabe
 _ _ _
 Auf dieser Seite kannst Du Deinen **individuellen Bericht** und Deinen **Ausbildungsnachweis** als PDF ausgeben lassen.
+Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite.
+![Schlagwörter](media/Ausbildungsportfolio_final-16.jpg)
+
 
 ## Was ist der Ausbildungsnachweis?
 Der schriftliche **Ausbildungsnachweis** ist das rechtlich bindende Dokument während deiner Ausbildung. Da du **regelmäßig Berichte und Zusammenfassungen abgeben** musst, solltest Du entsprechend Deine Arbeiten (Einträge) mit folgenden Schlagwörtern versehen, um sie bei der **Ausgabe** geordnet zu exportieren:
