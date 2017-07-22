@@ -2,6 +2,9 @@
 - - - 
 
 Auf dieser Seite kannst Du Lernorte erstellen und verwalten.
+Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite.
+![Schlagwörter](media/Ausbildungsportfolio_final-12.jpg)
+
 
 ## Was sind Lernorte?
 Lernorte können in Deinem Alltag sehr vielfältig sein (Schreibtisch, Verein etc. ). In Deiner Ausbildung werden wahrscheinlich die **wichtigsten Lernorte** Deine Schule und Dein Betrieb sein. Du kannst aber auch individuelle Lernorte verwenden. Wir können eigentlich überall lernen, z.B. könnte ein wichtiger Lernort für Dich der Besuch bei einem Kunden gewesen sein. Erstelle einfach dafür einen neuen Lernort (z.B. "Hausbesuch Herr Müller"). Auf dieser Seite erfährst Du, wie es geht:
@@ -25,6 +28,9 @@ Die folgenden Daten kannst Du bei einem Lernort anpassen.
 * Anschrift
 * Postleitzahl und Ort
 * Webseite
+
+![Schlagwörter](media/Ausbildungsportfolio_final-13.jpg)
+
 
 ## Wie kann ich Lernorte verwalten?
 Für die Verwaltung kannst Du auf das kleine Stift-Symbol rechts neben jedem Lernort gehen, um ihn zu **bearbeiten**. Zusätzlich kannst du einen Lernort hier **löschen**.
