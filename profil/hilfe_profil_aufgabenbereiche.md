@@ -2,6 +2,7 @@
 - - - 
 Auf dieser Seite kannst Du Aufgabenbereiche **verwalten** und **importieren**.
 Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite.
+
 ![Aufgabenbereiche](media/Ausbildungsportfolio_final-14.jpg)
 
 
