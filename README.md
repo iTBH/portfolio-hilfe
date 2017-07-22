@@ -7,15 +7,15 @@ Auf diesen Seiten findest Du nützliche Hilfestellungen zum Einsatz Deines Portf
 Wenn Du möchtest, kannst Du Dir die gesamte Hilfe als PDF auf deinen PC laden. Die entsprechende Funktion findest Du oben links. Folgende Informationen findest Du in der Hilfe:
 
 
-* [Erklärungen zum Dashboard](https://fizban05.rz.tu-harburg.de/itbh/portfolio-hilfe/dashboard/hilfe_dashboard.html)
-* [Persönliche Daten verwalten](https://fizban05.rz.tu-harburg.de/itbh/portfolio-hilfe/profil/hilfe_profil_persoenlich.html)
-* [Lernorte verwalten](https://fizban05.rz.tu-harburg.de/itbh/portfolio-hilfe/profil/hilfe_profil_lernorte.html)
-* [Aufgabenbereiche verwalten](https://fizban05.rz.tu-harburg.de/itbh/portfolio-hilfe/profil/hilfe_profil_aufgabenbereiche.html)
-* Einen Eintrag verfassen
-* Ansicht eines Eintrags
-* Aufgabenbereich in der Übersicht
-* Schlagwörter verwalten
+* [Erklärungen zum Dashboard](dashboard/hilfe_dashboard.md)
+* [Persönliche Daten verwalten](profil/hilfe_profil_persoenlich.md)
+* [Lernorte verwalten](profil/hilfe_profil_lernorte.md)
+* [Aufgabenbereiche verwalten](profil/hilfe_profil_aufgabenbereiche.md)
+* [Einen Eintrag verfassen](portfolio_eintrag/hilfe_eintrag_erstellen.md)
+* [Ansicht eines Eintrags](portfolio_eintrag/hilfe_eintrag_uebersicht.md)
+* [Aufgabenbereich in der Übersicht](aufgabenbereich/hilfe_aufgabenbereich_uebersicht.md) 
+* [Schlagwörter verwalten](schlagwoerter/hilfe_schlagwoerter.md)
 * [Die Mediathek](mediathek/hilfe_mediathek.md)
-* Die Ausgabe des individuellen Portfolios und des Ausbildungsnachweises
+* [Die Ausgabe des individuellen Portfolios und des Ausbildungsnachweises](ausgabe/hilfe_ausgabe.md)
 
 Viel Spaß beim Stöbern in der Portfolio-Hilfe.
