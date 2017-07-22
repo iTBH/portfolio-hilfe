@@ -13,6 +13,5 @@ Auf dieser Seite siehst Du die Informationen von dem Eintrag, den Du gerade ausg
 * Schlagwörter
 * Medien
 
-
 ## Wie kann ich einen Eintrag bearbeiten oder löschen?
-Im oberen Bereich der Seite findest du die beiden Schaltflächen zum Bearbeiten und Löschen deines Eintrags.
+Im oberen Bereich der Seite findest Du die beiden Schaltflächen zum Bearbeiten und Löschen deines Eintrags.
