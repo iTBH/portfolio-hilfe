@@ -1,6 +1,6 @@
 # Schlagwörter verwalten
 - - - 
-
+Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite.
 ![Schlagwörter](media/Ausbildungsportfolio_final-09.jpg)
 
 ## Was sind Schlagwörter?
