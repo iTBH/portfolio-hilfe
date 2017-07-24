@@ -4,7 +4,7 @@
 Auf dieser Seite kannst Du Lernorte erstellen und verwalten.
 Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite.
 
-![Deine Lernorte](media/Ausbildungsportfolio_final-12.jpg)
+![Deine Lernorte](/media/Ausbildungsportfolio_final-12.jpg)
 
 
 ## Was sind Lernorte?
