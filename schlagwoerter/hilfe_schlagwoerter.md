@@ -2,7 +2,7 @@
 - - - 
 Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite.
 
-![Schlagwörter](media/Ausbildungsportfolio_final-09.jpg)
+![Schlagwörter](/media/Ausbildungsportfolio_final-09.jpg)
 
 ## Was sind Schlagwörter?
 Schlagwörter kennst Du vielleicht auch als Hashtags bei Facebook, Instagram oder Twitter, mit ihnen kannst Du verwandte Einträge finden. In Deinem Portfolio helfen sie Dir bei der Sortierung von Deinen Daten und Einträgen. Sie sind wie kleine Lesezeichen an Bildern, Einträgen oder anderen Dateien, mit deren Hilfe Du schnell zu Deinen **wichtigen Daten** kommst. Sie sind besonders bei **vielen Einträgen** für einen **guten Überblick** nützlich.
@@ -21,7 +21,7 @@ Eine nützliche Funktion für neue Schlagwörter findest Du, wenn Du neue Eintr�
 In der Spalte "Verwendungen" kannst Du sehen, wie oft Du ein Schlagwort in Deinem Portfolio verwendet hast.
 Wenn Du **alle Einträge und Medien sehen** möchtest, die mit einem bestimmten Schlagwort verbunden sind, klicke einfach auf das Schlagwort.
 
-![Übericht der Verwendung von Schlagwörtern](media/Ausbildungsportfolio_final-10.jpg)
+![Übericht der Verwendung von Schlagwörtern](/media/Ausbildungsportfolio_final-10.jpg)
 
 **Achte darauf, dass Du ein Schlagwort nur einmal in diese Liste einträgst, da Du Deine Einträge sonst nicht eindeutig wiederfinden kannst. Ein Schlagwort kannst Du natürlich bei Deinen Einträgen und Medien so oft verwenden, wie Du möchtest.**
 
