@@ -30,7 +30,7 @@ Die folgenden Daten kannst Du bei einem Lernort anpassen.
 * Postleitzahl und Ort
 * Webseite
 
-![Einen neuen Lernort eintragen](media/Ausbildungsportfolio_final-13.jpg)
+![Einen neuen Lernort eintragen](/media/Ausbildungsportfolio_final-13.jpg)
 
 ## Wie kann ich Lernorte verwalten?
 Für die Verwaltung kannst Du auf das kleine Stift-Symbol rechts neben jedem Lernort gehen, um ihn zu **bearbeiten**. Zusätzlich kannst du einen Lernort hier **löschen**.
