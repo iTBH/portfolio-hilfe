@@ -7,9 +7,9 @@ Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite
 
 ## Was ist der Ausbildungsnachweis?
 Der schriftliche **Ausbildungsnachweis** ist das rechtlich bindende Dokument während Deiner Ausbildung. 
-Der Ausbildungsnachweis gilt auch als **Bestätigung**, dass Du die Pflichten erfüllt hast, deshalb musst Du ihn zur Zwischenprüfung und zur Abschlussprüfung vorlegen und vom Prüfungsausschuss unterzeichnen lassen. Du musst den Ausbildungsnachweis auch regelmäßig Deinem **Ausbilder zur Abnahme** vorlegen und unterschreiben lassen.
+Der Ausbildungsnachweis gilt auch als **Bestätigung**, dass Du die Pflichten erfüllt hast, deshalb musst Du ihn zur Zwischenprüfung und zur Abschlussprüfung vorlegen und vom Prüfungsausschuss unterzeichnen lassen. Du musst den Ausbildungsnachweis auch regelmäßig Deinem **Ausbilder oder deiner Ausbilderin zur Abnahme** vorlegen und unterschreiben lassen.
 
-Du musst regelmäßig folgende **Berichte und Zusammenfassungen** erstellen und abgeben:
+Für den Ausbildungsnachweis musst Du regelmäßig folgende **Einträge in Deinem Portfolio** erstellen und abgeben:
 
 ![Portfolioeinträge für den Ausbildungsnachweis](/media/Ausbildungsnachweis.png)
 
