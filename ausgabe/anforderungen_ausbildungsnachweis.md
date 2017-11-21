@@ -1,4 +1,4 @@
-## Was ist der Ausbildungsnachweis?
+## Was ist der Ausbildungsnachweis und was muss ich dafür im Portfolio tun?
 Der schriftliche **Ausbildungsnachweis** ist das rechtlich bindende Dokument während Deiner Ausbildung. 
 Der Ausbildungsnachweis gilt auch als **Bestätigung**, dass Du die Pflichten erfüllt hast, deshalb musst Du ihn zur Zwischenprüfung und zur Abschlussprüfung vorlegen und vom Prüfungsausschuss unterzeichnen lassen. Du musst den Ausbildungsnachweis auch regelmäßig Deinem **Ausbilder oder deiner Ausbilderin zur Abnahme** vorlegen und unterschreiben lassen.
 
@@ -12,9 +12,19 @@ Der schriftliche Ausbildungsnachweis muss von dem Auszubildenden/ von der Auszub
 
 Der schriftliche Ausbildungsnachweis ist dem Vorstand der Tierärztekammer auf Verlangen jederzeit vorzulegen.
 
-Für den Ausbildungsnachweis musst Du regelmäßig folgende **Einträge in Deinem Portfolio** erstellen und abgeben:
+**Für den Ausbildungsnachweis musst Du regelmäßig folgende Einträge in Deinem Portfolio erstellen und abgeben:**
 
 ![Portfolioeinträge für den Ausbildungsnachweis](/media/Ausbildungsnachweis.png)
+
+**Bis zur Zwischenprüfung - 1. bis 18. Ausbildungsmonat -**
+* 18 Schwerpunktthemen
+* 18 Zusammenfassungen
+* 6 Quartalsberichte
+
+**Nach der Zwischenprüfung - 19. bis 36. Ausbildungsmonat -**
+* 18 Schwerpunktthemen
+* 18 Zusammenfassungen
+* 6 Quartalsberichte
 
 ## Wie erstelle ich einen Eintrag für den Ausbildungsnachweis?
 Um einen Eintrag (Schwerpunktthema, Zusammenfassung, Quartalsbericht) für Deinen Ausbildungsnachweis zu erstellen, wählst Du auf dem [Dashboard](dashboard/hilfe_dashboard.md) den  [Aufgabenbereich](aufgabenbereich/hilfe_aufgabenbereich_uebersicht.md) aus, der inhaltlich zu Deinem Eintrag passt aus und erstellst einen neuen [Eintrag im Portfolio](portfolio_eintrag/hilfe_eintrag_erstellen.md). 
