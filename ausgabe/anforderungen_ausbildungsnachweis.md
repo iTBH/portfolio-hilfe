@@ -6,7 +6,7 @@ Für den Ausbildungsnachweis musst Du regelmäßig folgende **Einträge in Deine
 
 ![Portfolioeinträge für den Ausbildungsnachweis](/media/Ausbildungsnachweis.png)
 
-### Wie erstelle ich einen Eintrag für den Ausbildungsnachweis?
+## Wie erstelle ich einen Eintrag für den Ausbildungsnachweis?
 Um einen Eintrag (Schwerpunktthema, Zusammenfassung, Quartalsbericht) für Deinen Ausbildungsnachweis zu erstellen, wählst Du auf dem [Dashboard](dashboard/hilfe_dashboard.md) den  [Aufgabenbereich](aufgabenbereich/hilfe_aufgabenbereich_uebersicht.md) aus, der inhaltlich zu Deinem Eintrag passt aus und erstellst einen neuen [Eintrag im Portfolio](portfolio_eintrag/hilfe_eintrag_erstellen.md). 
 
 Um später Deine Einträge für den Ausbildungsnachweis auszugeben, musst Du diesen ein entsprechendes Schlagwort geben:
@@ -16,7 +16,7 @@ Um später Deine Einträge für den Ausbildungsnachweis auszugeben, musst Du die
 
 Die Vergabe von [Schlagwörtern](schlagwoerter/hilfe_schlagwoerter.md) hilft Dir, immer die **Übersicht zu behalten** und die Pflichttexte schnell und einfach durch die Schlagwörter zu finden.
 
-### Wie kann ich Einträge für den Ausbildungsnachweis ausgeben?
+## Wie kann ich Einträge für den Ausbildungsnachweis ausgeben?
 **Zur [Ausgabe des Ausbildungsnachweises](ausgabe/hilfe_ausgabe.md) filterst Du Deine Einträge nach diesen Schlagwörtern** und bestimmst so, welche Einträge Du in die Ausgabe Deines Ausbildungsnachweises legen möchtest. Zusätzlich kannst Du Deine Einträge nach folgenden Kriterien filtern:
 * Aufgabenbereich
 * Lernorte
