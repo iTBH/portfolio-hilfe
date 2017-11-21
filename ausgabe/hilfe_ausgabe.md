@@ -6,18 +6,30 @@ Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite
 ![Ausgabe des individuellen Berichts und des Ausbildungsnachweises](/media/Ausbildungsportfolio_final-16.jpg)
 
 ## Was ist der Ausbildungsnachweis?
-Der schriftliche **Ausbildungsnachweis** ist das rechtlich bindende Dokument während deiner Ausbildung. Da du **regelmäßig Berichte und Zusammenfassungen abgeben** musst, solltest Du entsprechend Deine Arbeiten (Einträge) mit folgenden Schlagwörtern versehen, um sie bei der **Ausgabe** geordnet zu exportieren:
+Der schriftliche **Ausbildungsnachweis** ist das rechtlich bindende Dokument während Deiner Ausbildung. 
+Der Ausbildungsnachweis gilt auch als **Bestätigung**, dass Du die Pflichten erfüllt hast, deshalb musst Du ihn zur Zwischenprüfung und zur Abschlussprüfung vorlegen und vom Prüfungsausschuss unterzeichnen lassen. Du musst den Ausbildungsnachweis auch regelmäßig Deinem **Ausbilder zur Abnahme** vorlegen und unterschreiben lassen.
+
+Du musst regelmäßig folgende **Berichte und Zusammenfassungen** erstellen und abgeben:
+
+
+
+
+### Wie kann ich Einträge für den Ausbildungsnachweis ausgeben?
+Um Einträge für den Ausbildungsnachweis ausgeben zu können, musst Du diesen ein entsprechendes Schlagwort geben:
 * **Schwerpunktbericht**
 * **Zusammenfassung**
 * **Quartalsbericht**
 
 Damit Du immer die **Übersicht behältst** und die Pflichttexte schnell und einfach findest, solltest Du diese Schlagwörter verwenden.
 
-Der Ausbildungsnachweis gilt auch als **Bestätigung**, dass Du die Pflichten erfüllt hast, deshalb musst Du ihn zur Zwischenprüfung und zur Abschlussprüfung vorlegen und vom Prüfungsausschuss unterzeichnen lassen. Du musst den Ausbildungsnachweis auch regelmäßig Deinem **Ausbilder zur Abnahme** vorlegen und unterschreiben lassen.
+Da du **regelmäßig Berichte und Zusammenfassungen abgeben** musst, solltest Du entsprechend Deine Arbeiten (Einträge) mit folgenden Schlagwörtern versehen, um sie bei der **Ausgabe** geordnet zu exportieren:
 
-Der Ausbildungsnachweis dient Dir auch als **Informationsquelle** für die **formalen Pflichten**, die Du im Rahmen Deiner Ausbildung erfüllen musst. Du kannst dort auch Infos über Inhalte und Aufgabenbereiche Deiner Ausbildung erhalten.
 
-**Lass Dir den Ausbildungsnachweis ausgeben und schau, was dich in Deiner Ausbildung erwartet. Du wirst merken, dass Du dort die Aufgabenbereiche, Lernfelder und Tätigkeiten aus dem Unterricht, dem Betrieb und Deinem Portfolio wiederfindest.**
+
+
+
+
+
 
 ## Was ist der individuelle Bericht?
 Der individuelle Bericht ist die Ausgabemöglichkeit Deiner Portfolioeinträge, wenn Du sie für Dich oder für jemanden anderes in geordneter Form präsentieren möchtest.
