@@ -2,6 +2,9 @@
 
 * [Einleitung](README.md)
 
+## Anforderungen an den Ausbildungsnachweis
+* [Der Ausbildungsnachweis](ausgabe/anforderungen_ausbildungsnachweis.md)
+
 ## Dashboard
 * [Das Dashboard](dashboard/hilfe_dashboard.md)
 
