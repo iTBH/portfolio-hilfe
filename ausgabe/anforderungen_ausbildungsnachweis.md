@@ -10,7 +10,7 @@ Für den Ausbildungsnachweis musst Du regelmäßig folgende **Einträge in Deine
 schlagwoerter/hilfe_schlagwoerter.md
  
 ### Wie erstelle ich Einträge für den Ausbildungsnachweis?
-Um einen Eintrag (Schwerpunktthema, Zusammenfassung, Quartalsbericht) für Deinen Ausbildungsnachweis zu erstellen, wählst Du auf dem [Dashboard](dashboard/hilfe_dashboard.md) den entsprechenden [Aufgabenbereich](hilfe_aufgabenbereich_uebersicht.md) aus und erstellst einen neuen [Eintrag im Portfolio](portfolio_eintrag/hilfe_eintrag_erstellen.md). 
+Um einen Eintrag (Schwerpunktthema, Zusammenfassung, Quartalsbericht) für Deinen Ausbildungsnachweis zu erstellen, wählst Du auf dem [Dashboard](dashboard/hilfe_dashboard.md) den entsprechenden [Aufgabenbereich](aufgabenbereich/hilfe_aufgabenbereich_uebersicht.md) aus und erstellst einen neuen [Eintrag im Portfolio](portfolio_eintrag/hilfe_eintrag_erstellen.md). 
 
 
 
