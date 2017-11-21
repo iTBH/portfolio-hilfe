@@ -88,5 +88,5 @@ deploy:
     environment:
         name: production
         #url: http://$HOST_NAME$COLON$HTTP_PORT/production/
-        #url: https://$PROXY_HOST_NAME/$BASE_PATH/
-        url: https://$PROXY_HOST_NAME/$CI_PROJECT_PATH/
+        url: https://$PROXY_HOST_NAME/$BASE_PATH/
+        #url: https://$PROXY_HOST_NAME/$CI_PROJECT_PATH/
