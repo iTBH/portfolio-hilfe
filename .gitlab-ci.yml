@@ -1,98 +1,92 @@
 variables:
-    COLON: ':'
+    REVIEW_IMAGE: docker.rz.tu-harburg.de:5000/docker/nginx--review-apps:latest
+    BUILD_IMAGE: docker.rz.tu-harburg.de:5000/docker/gitbook-itbh-glr:latest
+    
+    DOCKER_CONTAINER_NAME: ${CI_PROJECT_PATH_SLUG}-${CI_ENVIRONMENT_SLUG}
+    
+before_script:
+    - sudo docker pull ${BUILD_IMAGE}
+    - sudo docker pull ${REVIEW_IMAGE}
 
 stages:
-    - build
     - review
     - deploy
-
-#pdfs:
-#    stage: build
-#    only:
-#        - branches
-#    tags:
-#        - development
-#    script:
-#        - pwd
-#        - sudo docker pull docker.rz.tu-harburg.de:5000/docker/pandoc4gitbook-glr:latest
-#        - sudo docker run --rm -v $(pwd):/source docker.rz.tu-harburg.de:5000/docker/pandoc4gitbook-glr
-#        - sudo docker pull docker.rz.tu-harburg.de:5000/docker/pandoc-glr:latest
-#        - mkdir -p book_pdf; sudo docker run --rm -v $(pwd):/source docker.rz.tu-harburg.de:5000/docker/pandoc-glr .pandoc-config.yml book.md -o book_pdf/pandocbook.pdf
-#    artifacts:
-#        name: "${CI_JOB_NAME}_${CI_COMMIT_REF_NAME}"
-#        paths:
-#            # Was hier nicht gelistet ist, landet auch nicht in der `review`-Phase
-#            - book_pdf
-
-static_sites:
-    stage: build
+    
+review:pdf:
+    stage: review
     only:
         - branches
+    when: manual
+    retry: 2
     tags:
         - development
     script:
         - pwd
-        - sudo docker pull docker.rz.tu-harburg.de:5000/docker/gitbook-glr:latest
-        - sudo docker run --rm -v $(pwd):/source docker.rz.tu-harburg.de:5000/docker/gitbook-glr install
-        - sudo docker run --rm -v $(pwd):/source docker.rz.tu-harburg.de:5000/docker/gitbook-glr build
-        - mkdir -p book_pdf; sudo docker run --rm -v $(pwd):/source docker.rz.tu-harburg.de:5000/docker/gitbook-glr pdf ./ ./book_pdf/book.pdf
+        - mkdir -p book_pdf; sudo docker run --rm -v $(pwd):/source ${BUILD_IMAGE} pdf ./ ./book_pdf/book.pdf
     artifacts:
         name: "${CI_JOB_NAME}_${CI_COMMIT_REF_NAME}"
         paths:
-            # Was hier nicht gelistet ist, landet auch nicht in der `review`-Phase
-            - _book
             - book_pdf
-
-
-start_review:
+    except:
+        - master
+    
+review:start:
     stage: review
+    retry: 2
     script:
-        - sshpass -p "$SSH_PASSWD" ssh -p "$SSH_PORT" $SSH_USER@$HOST_NAME "mkdir -p /usr/share/nginx/html/review/$CI_COMMIT_REF_NAME"
-        - sshpass -p "$SSH_PASSWD" scp -P "$SSH_PORT" -r _book/* $SSH_USER@$HOST_NAME:/usr/share/nginx/html/review/$CI_COMMIT_REF_NAME
-        - sshpass -p "$SSH_PASSWD" scp -P "$SSH_PORT" -r book_pdf $SSH_USER@$HOST_NAME:/usr/share/nginx/html/review/${CI_COMMIT_REF_NAME}
+        - pwd
+        - sudo docker run --detach --rm --env VIRTUAL_HOST=${CI_ENVIRONMENT_SLUG} --name ${DOCKER_CONTAINER_NAME} ${REVIEW_IMAGE} || true
+        - sudo docker run --rm -v $(pwd):/source ${BUILD_IMAGE} install
+        - sudo docker run --rm -v $(pwd):/source ${BUILD_IMAGE} build
+        - sudo docker cp ./_book/. ${DOCKER_CONTAINER_NAME}:/usr/share/nginx/html
+        - if [ ! -z "${REVIEW_CREDENTIALS}" ]; then mkdir -p ./nginx && echo "${REVIEW_CREDENTIALS}" > ./nginx/credentials && sudo docker cp ./nginx/credentials ${DOCKER_CONTAINER_NAME}:/etc/nginx/htpasswd/credentials; rm -f ./nginx/credentials; fi
     environment:
-        name: review/$CI_COMMIT_REF_NAME
-        #url: http://$HOST_NAME$COLON$HTTP_PORT/review/$CI_COMMIT_REF_NAME/
-        url: https://$PROXY_HOST_NAME/reviews/$BASE_PATH/$CI_COMMIT_REF_NAME/
-        #url: https://$PROXY_HOST_NAME/reviews/$CI_PROJECT_PATH/$CI_COMMIT_REF_NAME/
-        on_stop: stop_review
+        name: review/${CI_COMMIT_REF_NAME}
+        url: http://${CI_ENVIRONMENT_SLUG}.collaborating.tuhh.de
+        on_stop: review:stop
     only:
         - branches
     tags:
         - development
+        - ssg
     except:
         - master
 
-stop_review:
+review:stop:
     stage: review
     variables:
         GIT_STRATEGY: none
     script:
-        - sshpass -p "$SSH_PASSWD" ssh -p "$SSH_PORT" $SSH_USER@$HOST_NAME "rm -rf /usr/share/nginx/html/review/$CI_COMMIT_REF_NAME"
+        - sudo docker stop ${DOCKER_CONTAINER_NAME}
     when: manual
     environment:
-        name: review/$CI_COMMIT_REF_NAME
+        name: review/${CI_COMMIT_REF_NAME}
         action: stop
     only:
         - branches
     tags:
         - development
+        - ssg
     except:
         - master
-
+    
 deploy:
     stage: deploy
     only:
         - master
+    retry: 2
     tags:
-        - production
+        - ssg
     script:
         - pwd
-        - sshpass -p "$SSH_PASSWD" ssh -p "$SSH_PORT" $SSH_USER@$HOST_NAME "mkdir -p /usr/share/nginx/html/production"
-        - sshpass -p "$SSH_PASSWD" scp -P "$SSH_PORT" -r _book/* $SSH_USER@$HOST_NAME:/usr/share/nginx/html/production
-        - sshpass -p "$SSH_PASSWD" scp -P "$SSH_PORT" -r book_pdf $SSH_USER@$HOST_NAME:/usr/share/nginx/html/production
+        - sudo docker run --rm -v $(pwd):/source ${BUILD_IMAGE} install
+        - sudo docker run --rm -v $(pwd):/source ${BUILD_IMAGE} build
+        - mkdir -p book_pdf; sudo docker run --rm -v $(pwd):/source ${BUILD_IMAGE} pdf ./ ./book_pdf/book.pdf
+        - sshpass -p "${SSH_PASSWD}" ssh -p "${SSH_PORT}" "${SSH_USER}"@"${HOST_NAME}" "mkdir -p /usr/share/nginx/html/production"
+        - sshpass -p "${SSH_PASSWD}" scp -P "${SSH_PORT}" -r _book/* "${SSH_USER}"@"${HOST_NAME}":/usr/share/nginx/html/production
+        - sshpass -p "${SSH_PASSWD}" scp -P "${SSH_PORT}" -r book_pdf "${SSH_USER}"@"${HOST_NAME}":/usr/share/nginx/html/production
     environment:
         name: production
         #url: http://$HOST_NAME$COLON$HTTP_PORT/production/
-        url: https://$PROXY_HOST_NAME/$BASE_PATH/
-        #url: https://$PROXY_HOST_NAME/$CI_PROJECT_PATH/
+        #url: https://$PROXY_HOST_NAME/$BASE_PATH/
+        url: https://$PROXY_HOST_NAME/$CI_PROJECT_PATH/
