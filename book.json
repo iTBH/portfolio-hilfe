@@ -21,7 +21,6 @@
     }
   },
   "language": "de",
-  "gitbook": "3.2.2",
   "styles": {
     "website": "styles/website.css",
     "pdf": "styles/pdf.css"
