@@ -1,6 +1,16 @@
-## Was ist der Ausbildungsnachweis und wie erstelle ich ihn im Portfolio?
+## Was ist der Ausbildungsnachweis?
 Der schriftliche **Ausbildungsnachweis** ist das rechtlich bindende Dokument während Deiner Ausbildung. 
 Der Ausbildungsnachweis gilt auch als **Bestätigung**, dass Du die Pflichten erfüllt hast, deshalb musst Du ihn zur Zwischenprüfung und zur Abschlussprüfung vorlegen und vom Prüfungsausschuss unterzeichnen lassen. Du musst den Ausbildungsnachweis auch regelmäßig Deinem **Ausbilder oder deiner Ausbilderin zur Abnahme** vorlegen und unterschreiben lassen.
+
+**Diese Anforderungen werden an Dich gestellt:**
+
+1. Der schriftliche Nachweis ist nach § 7 der Verordnung über die Berufsausbildung zum Tiermedizinischen Fachangestellten/zur Tiermedizinischen Fachangestellten zu führen.
+2. Die Vorlage des schriftlichen Ausbildungsnachweises ist Voraussetzung für die Zulassung zur Zwischenprüfung/Abschlussprüfung (§ 43 Abs. 1 Ziff. 2 Berufsbildungsgesetz).
+Aus Ihrem schriftlichen Ausbildungsnachweis muss hervorgehen,welche Ausbildungsinhalte Sie in Ihrer Ausbildungspraxis wann gelernt haben. Er dient also auch Ihnen und Ihrem Ausbilder/ Ihrer Ausbilderin dazu, den Stand der eigenen Ausbildung mit den Aufgabenbereichen des Berufs Tiermedizinischer Fachangestellter/ Tiermedizinische Fachangestellte abzugleichen. Die Aufgabenbereiche des Berufs basieren auf den Vorgaben der Ausbildungsverordnung, welche in § 4 der Verordnung über die Berufsausübung zum Tiermedizinischen Fachangestellten/ zur Tiermedizinischen Fachangestellten zu finden sind (s. Anhang).
+
+Der schriftliche Ausbildungsnachweis muss von dem Auszubildenden/ von der Auszubildenden regelmäßig geführt werden und von dem bzw. der Ausbildenden ebenfalls monatlich kontrolliert und zeitnah abgezeichnet werden.
+
+Der schriftliche Ausbildungsnachweis ist dem Vorstand der Tierärztekammer auf Verlangen jederzeit vorzulegen.
 
 Für den Ausbildungsnachweis musst Du regelmäßig folgende **Einträge in Deinem Portfolio** erstellen und abgeben:
 
