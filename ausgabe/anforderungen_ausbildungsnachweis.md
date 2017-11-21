@@ -20,9 +20,8 @@ Die Vergabe von [Schlagwörtern](schlagwoerter/hilfe_schlagwoerter.md) hilft Dir
 **Zur [Ausgabe des Ausbildungsnachweises](ausgabe/hilfe_ausgabe.md) filterst Du Deine Einträge nach diesen Schlagwörtern** und bestimmst so, welche Einträge Du in die Ausgabe Deines Ausbildungsnachweises legen möchtest. Zusätzlich kannst Du Deine Einträge nach folgenden Kriterien filtern:
 * Aufgabenbereich
 * Lernorte
-* Schlagwörter
 * Zeitraum von/bis
 
-Nachdem Du die Einträge gefiltert hast, hast Du auch hier die Möglichkeit nochmal Einträge aus der Ausgabe heraus zu nehmen, indem du einfach das Häckchen neben dem Eintrag weg klickst.
+Nachdem Du die Einträge gefiltert hast, hast Du auch hier die Möglichkeit, nochmal Einträge aus der Ausgabe heraus zu nehmen, indem du einfach das Häckchen neben dem Eintrag weg klickst.
 
 Wenn Du also z.B. nur Deine Schwerpunktberichte aus dem ersten Ausbildungsjahr ausgeben möchtest, gibst Du "Schwerpunktbericht" im Feld Schlagwörter und den entsprechenden Zeitraum beim Datum an.
