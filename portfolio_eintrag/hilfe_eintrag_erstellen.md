@@ -38,7 +38,7 @@ Um Einträge für den Ausbildungsnachweis auszugeben, musst Du diesen ein entspr
 
 Damit Du immer die **Übersicht behältst** und die Pflichttexte schnell und einfach findest, solltest Du diese Schlagwörter immer verwenden.
 
-Zur [Ausgabe des Ausbildungsnachweises](Ausgabe/hilfe_ausgabe.md) filterst Du Deine Einträge nach diesen Schlagwörtern und bestimmst so, welche Einträge Du in die Ausgabe Deines Ausbildungsnachweises legen möchtest. 
+Zur [Ausgabe des Ausbildungsnachweises](ausgabe/hilfe_ausgabe.md) filterst Du Deine Einträge nach diesen Schlagwörtern und bestimmst so, welche Einträge Du in die Ausgabe Deines Ausbildungsnachweises legen möchtest. 
 
 ## Kann ich einen Eintrag in einen anderen Arbeitsbereich verschieben?
 Ja, mit einem kleinen Trick.
