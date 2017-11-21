@@ -6,11 +6,22 @@ Der Ausbildungsnachweis gilt auch als **Bestätigung**, dass Du die Pflichten er
 
 1. Der schriftliche Nachweis ist nach § 7 der Verordnung über die Berufsausbildung zum Tiermedizinischen Fachangestellten/zur Tiermedizinischen Fachangestellten zu führen.
 2. Die Vorlage des schriftlichen Ausbildungsnachweises ist Voraussetzung für die Zulassung zur Zwischenprüfung/Abschlussprüfung (§ 43 Abs. 1 Ziff. 2 Berufsbildungsgesetz).
-Aus Ihrem schriftlichen Ausbildungsnachweis muss hervorgehen,welche Ausbildungsinhalte Sie in Ihrer Ausbildungspraxis wann gelernt haben. Er dient also auch Ihnen und Ihrem Ausbilder/ Ihrer Ausbilderin dazu, den Stand der eigenen Ausbildung mit den Aufgabenbereichen des Berufs Tiermedizinischer Fachangestellter/ Tiermedizinische Fachangestellte abzugleichen. Die Aufgabenbereiche des Berufs basieren auf den Vorgaben der Ausbildungsverordnung, welche in § 4 der Verordnung über die Berufsausübung zum Tiermedizinischen Fachangestellten/ zur Tiermedizinischen Fachangestellten zu finden sind (s. Anhang).
+Aus Deinem schriftlichen Ausbildungsnachweis muss hervorgehen, welche Ausbildungsinhalte Du in Deiner Ausbildungspraxis wann gelernt hast. Er dient also auch Dir und Deinem Ausbilder/ Deiner Ausbilderin dazu, den Stand der eigenen Ausbildung mit den Aufgabenbereichen des Berufs Tiermedizinischer Fachangestellter/ Tiermedizinische Fachangestellte abzugleichen. Die Aufgabenbereiche des Berufs basieren auf den Vorgaben der Ausbildungsverordnung, welche in § 4 der Verordnung über die Berufsausübung zum Tiermedizinischen Fachangestellten/ zur Tiermedizinischen Fachangestellten zu finden sind.
 
 Der schriftliche Ausbildungsnachweis muss von dem Auszubildenden/ von der Auszubildenden regelmäßig geführt werden und von dem bzw. der Ausbildenden ebenfalls monatlich kontrolliert und zeitnah abgezeichnet werden.
 
 Der schriftliche Ausbildungsnachweis ist dem Vorstand der Tierärztekammer auf Verlangen jederzeit vorzulegen.
+
+Alle Schwerpunktthemen/ Zusammenfassungen/ Quartalsberichte müssen von Dir und Deinem Ausbilder/ Deiner
+Ausbilderin gegengezeichnet werden.
+
+Bei Verkürzung Deiner Ausbildungszeit führst Du die Berichte bis zum Zeitpunkt der Abschlussprüfung.
+
+Bitte lege Deinen schriftlichen Ausbildungsnachweis **chronologisch** an, sodass das aktuelle Datum oben liegt!
+
+Bitte behalte nach Ausdruck des Ausbildungsnachweises die Reihenfolge der Schwerpunktberichte, Zusammenfassungen und Quartalsberichte zur Abgabe an die Tierärztekammer bei.
+
+Bitte lege dem Ausbildungsnachweis einen frankierten adressierten Rückumschlag bei.
 
 **Für den Ausbildungsnachweis musst Du regelmäßig folgende Einträge in Deinem Portfolio erstellen und abgeben:**
 
