@@ -15,21 +15,22 @@ Für den Ausbildungsnachweis musst Du regelmäßig folgende **Einträge in Deine
 
 
 ### Wie kann ich Einträge für den Ausbildungsnachweis ausgeben?
-Um Einträge für den Ausbildungsnachweis ausgeben zu können, musst Du diesen ein entsprechendes Schlagwort geben:
-* **Schwerpunktbericht**
+Um Einträge für den Ausbildungsnachweis auszugeben, musst Du diesen ein entsprechendes Schlagwort geben:
+* **Schwerpunktthema**
 * **Zusammenfassung**
 * **Quartalsbericht**
 
-Damit Du immer die **Übersicht behältst** und die Pflichttexte schnell und einfach findest, solltest Du diese Schlagwörter verwenden.
+Damit Du immer die **Übersicht behältst** und die Pflichttexte schnell und einfach findest, solltest Du diese Schlagwörter immer verwenden.
 
-Da du **regelmäßig Berichte und Zusammenfassungen abgeben** musst, solltest Du entsprechend Deine Arbeiten (Einträge) mit folgenden Schlagwörtern versehen, um sie bei der **Ausgabe** geordnet zu exportieren:
+**Zur Ausgabe filterst Du Deine Einträge nach diesen Schlagwörtern** und bestimmst so, welche Einträge Du in die Ausgabe Deines Ausbildungsnachweises legen möchtest. Zusätzlich kannst Du Deine Einträge nach folgenden Kriterien filtern:
+* Aufgabenbereich
+* Lernorte
+* Schlagwörter
+* Zeitraum von/bis
 
+Nachdem Du die Einträge gefiltert hast, hast Du auch hier die Möglichkeit nochmal Einträge aus der Ausgabe heraus zu nehmen, indem du einfach das Häckchen neben dem Eintrag weg klickst.
 
-
-
-
-
-
+Wenn Du also z.B. nur Deine Schwerpunktberichte aus dem ersten Ausbildungsjahr ausgeben möchtest, gibst Du "Schwerpunktbericht" im Feld Schlagwörter und den entsprechenden Zeitraum beim Datum an.
 
 ## Was ist der individuelle Bericht?
 Der individuelle Bericht ist die Ausgabemöglichkeit Deiner Portfolioeinträge, wenn Du sie für Dich oder für jemanden anderes in geordneter Form präsentieren möchtest.
