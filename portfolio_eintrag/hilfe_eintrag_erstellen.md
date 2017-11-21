@@ -24,7 +24,7 @@ Denke daran, dass Du Deine Medien zuerst im **Bereich "Mediathek"** hochladen mu
 ## Ich möchte einen Eintrag für 1 Tag erstellen?
 Wenn Du nur an **einem Tag** einer Tätigkeit nachgegangen bist, die Du in Deinem Portfolio festhalten möchstest, trage einfach in dem Feld "Datum" den gleichen Tag bei "von" und bei "bis" ein. Dabei erhälst du zudem die Möglichkeit unter "Dauer der Tätigkeit(en) in Stunden" den **Zeitumfang der Tätigkeit** einzutragen. Bei Tätigkeiten, die über mehrere Tage gehen, werden automatisch 8 Stunden pro Tag eingetragen. Wenn du also z.B. vom 10.05. bis zum 13.05. eine Aufgabe erledigt hast, werden dir 3 x 8 Stunden = 24 Stunden eingetragen.
 
-## Wie erstelle ich einen Eintrag für Meinen Ausbildungsnachweis?
+## Ich möchte einen Eintrag für Meinen Ausbildungsnachweis erstellen?
 Der schriftliche **Ausbildungsnachweis** ist das rechtlich bindende Dokument während Deiner Ausbildung. 
 
 Für den Ausbildungsnachweis musst Du regelmäßig folgende **Einträge in Deinem Portfolio** erstellen und abgeben:
