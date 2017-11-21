@@ -11,7 +11,7 @@ Der Ausbildungsnachweis gilt auch als **Bestätigung**, dass Du die Pflichten er
 
 Du musst regelmäßig folgende **Berichte und Zusammenfassungen** erstellen und abgeben:
 
-
+Ausbildungsnachweis.png
 
 
 ### Wie kann ich Einträge für den Ausbildungsnachweis ausgeben?
