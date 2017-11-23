@@ -2,7 +2,7 @@
 - - - 
 Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite.
 
-![Einträge des Aufgabenbereichs](/media/Ausbildungsportfolio_final-04.png)
+![Einträge des Aufgabenbereichs](./Ausbildungsportfolio_final-04.png)
 
 ## Was ist die Eintragsübersicht?
 Bei der Eintragsübersicht kannst Du alle Deine Einträge in einem bestimmten Arbeitsbereich einsehen.
