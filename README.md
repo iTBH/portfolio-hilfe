@@ -6,9 +6,14 @@
 Auf diesen Seiten findest Du nützliche Hilfestellungen zum Einsatz Deines Portfolios. Auf jeder Seite findest Du in der oberen rechten Ecke den Button "Hilfe". Wenn Du darauf klickst, kannst Du wichtige Informationen für die Funktionen auf der aktuellen Seite finden.
 Wenn Du möchtest, kannst Du Dir die gesamte Hilfe als PDF auf deinen PC laden. Die entsprechende Funktion findest Du oben links. Folgende Informationen findest Du in der Hilfe:
 
+### Lerne Dein Portfolio kennen
 
 * [Erste Schritte in Deinem Portfolio](erste_schritte.md)
 * [Anforderungen an den Ausbildungsnachweis](ausgabe/anforderungen_ausbildungsnachweis.md)
+
+- - -
+### Informationen zu den Portfolio-Funktionen
+
 * [Erklärungen zum Dashboard](dashboard/hilfe_dashboard.md)
 * [Persönliche Daten verwalten](profil/hilfe_profil_persoenlich.md)
 * [Lernorte verwalten](profil/hilfe_profil_lernorte.md)
