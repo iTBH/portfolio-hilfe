@@ -17,6 +17,6 @@ Wenn Du möchtest, kannst Du Dir die gesamte Hilfe als PDF auf deinen PC laden. 
 * [Aufgabenbereich in der Übersicht](aufgabenbereich/hilfe_aufgabenbereich_uebersicht.md) 
 * [Schlagwörter verwalten](schlagwoerter/hilfe_schlagwoerter.md)
 * [Die Mediathek](mediathek/hilfe_mediathek.md)
-* [Die Ausgabe des individuellen Portfolios und des Ausbildungsnachweises](ausgabe/hilfe_ausgabe.md)
+* [Die Ausgabe des individuellen Berichts und des Ausbildungsnachweises](ausgabe/hilfe_ausgabe.md)
 
 Viel Spaß beim Stöbern in der Portfolio-Hilfe.
