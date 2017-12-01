@@ -1,6 +1,7 @@
 # Summary
 
 * [Einleitung](README.md)
+* [Erste Schritte in Deinem Portfolio](erste_schritte.md)
 
 ## Anforderungen an den Ausbildungsnachweis
 * [Der Ausbildungsnachweis](ausgabe/anforderungen_ausbildungsnachweis.md)
