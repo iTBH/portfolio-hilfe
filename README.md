@@ -7,6 +7,7 @@ Auf diesen Seiten findest Du nützliche Hilfestellungen zum Einsatz Deines Portf
 Wenn Du möchtest, kannst Du Dir die gesamte Hilfe als PDF auf deinen PC laden. Die entsprechende Funktion findest Du oben links. Folgende Informationen findest Du in der Hilfe:
 
 
+* [Erste Schritte in Deinem Portfolio](ausgabe/anforderungen_ausbildungsnachweis.md)
 * [Anforderungen an den Ausbildungsnachweis](ausgabe/anforderungen_ausbildungsnachweis.md)
 * [Erklärungen zum Dashboard](dashboard/hilfe_dashboard.md)
 * [Persönliche Daten verwalten](profil/hilfe_profil_persoenlich.md)
