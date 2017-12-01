@@ -3,29 +3,29 @@
 * [Einleitung](README.md)
 * [Erste Schritte in Deinem Portfolio](erste_schritte.md)
 
-## Anforderungen an den Ausbildungsnachweis
+### Anforderungen an den Ausbildungsnachweis
 * [Der Ausbildungsnachweis](ausgabe/anforderungen_ausbildungsnachweis.md)
 
-## Dashboard
+### Dashboard
 * [Das Dashboard](dashboard/hilfe_dashboard.md)
 
-## Profil
+### Profil
 * [Persönliche Daten](profil/hilfe_profil_persoenlich.md)
 * [Die Lernorte verwalten](profil/hilfe_profil_lernorte.md)
 * [Die Aufgabenbereiche verwalten](profil/hilfe_profil_aufgabenbereiche.md)
 
-## Portfolio-Eintrag
+### Portfolio-Eintrag
 * [Einen Eintrag verfassen](portfolio_eintrag/hilfe_eintrag_erstellen.md)
 * [Ansicht eines Eintrags](portfolio_eintrag/hilfe_eintrag_uebersicht.md)
  
-## Aufgabenbereich
+### Aufgabenbereich
 * [Der Aufgabenbereich in der Übersicht](aufgabenbereich/hilfe_aufgabenbereich_uebersicht.md)
 
-## Schlagwörter
+### Schlagwörter
 * [Schlagwörter verwalten](schlagwoerter/hilfe_schlagwoerter.md)
 
-## Mediathek
+### Mediathek
 * [Medien verwalten](mediathek/hilfe_mediathek.md)
  
-## Ausgabe
+### Ausgabe
 * [Die Ausgabe von Portfolio-Einträgen](ausgabe/hilfe_ausgabe.md)
