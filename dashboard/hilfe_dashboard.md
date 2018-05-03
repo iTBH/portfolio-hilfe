@@ -1,4 +1,4 @@
-# Dashboard
+# Dashboard Hase
 - - - 
 Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite.
 
