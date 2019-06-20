@@ -1,6 +1,6 @@
 # Dashboard 
 - - - 
-Die untere Abbildung gibt Dir einen Überblick über die Funktionen dieser Seite.
+Die untere Abbildung gibt Ihnen einen Überblick über die Funktionen dieser Seite.
 
 ![Das Dashboard](/media/Ausbildungsportfolio_final-03.jpg)
 
